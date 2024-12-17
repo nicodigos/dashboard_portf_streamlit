@@ -1,0 +1,961 @@
+GEO,year,variable,value
+Alberta,1976,employment,989028.9849315672
+Alberta,1977,employment,1036455.5308368471
+Alberta,1978,employment,1095499.8735212386
+Alberta,1979,employment,1172576.7513469902
+Alberta,1980,employment,1245901.3443183107
+Alberta,1981,employment,1333987.0511459871
+Alberta,1982,employment,1317648.9608583406
+Alberta,1983,employment,1281357.2528014556
+Alberta,1984,employment,1283781.6335961546
+Alberta,1985,employment,1323013.1763323797
+Alberta,1986,employment,1339068.2439372127
+Alberta,1987,employment,1346667.8309780264
+Alberta,1988,employment,1387927.819459711
+Alberta,1989,employment,1424308.218257448
+Alberta,1990,employment,1452997.6113328189
+Alberta,1991,employment,1459413.0833214456
+Alberta,1992,employment,1454976.8838537524
+Alberta,1993,employment,1463431.1312916982
+Alberta,1994,employment,1503169.6074147553
+Alberta,1995,employment,1547725.8463684765
+Alberta,1996,employment,1590634.5678815157
+Alberta,1997,employment,1641681.2465277913
+Alberta,1998,employment,1703512.0860811062
+Alberta,1999,employment,1737924.0945756144
+Alberta,2000,employment,1776788.12351441
+Alberta,2001,employment,1822474.2838712863
+Alberta,2002,employment,1868607.7381812688
+Alberta,2003,employment,1925375.5887939124
+Alberta,2004,employment,1973570.7437471624
+Alberta,2005,employment,2020518.6320237464
+Alberta,2006,employment,2121145.249028824
+Alberta,2007,employment,2203597.2024641447
+Alberta,2008,employment,2258367.4015567363
+Alberta,2009,employment,2236325.21470058
+Alberta,2010,employment,2232939.114891048
+Alberta,2011,employment,2313758.664433056
+Alberta,2012,employment,2387069.7712967824
+Alberta,2013,employment,2438854.4527861327
+Alberta,2014,employment,2483131.0048292265
+Alberta,2015,employment,2511018.9934870694
+Alberta,2016,employment,2445210.0610166425
+Alberta,2017,employment,2461263.697042203
+Alberta,2018,employment,2521843.769800226
+Alberta,2019,employment,2545783.8744011237
+Alberta,2020,employment,2360719.1458355607
+Alberta,2021,employment,2481461.666420532
+Alberta,2022,employment,2608213.287237033
+Alberta,2023,employment,2729560.9393486297
+British Columbia,1976,employment,1203087.2707544656
+British Columbia,1977,employment,1230065.6948576286
+British Columbia,1978,employment,1281771.7715362608
+British Columbia,1979,employment,1332559.666244594
+British Columbia,1980,employment,1416576.083986718
+British Columbia,1981,employment,1474650.6988691438
+British Columbia,1982,employment,1399690.2843626211
+British Columbia,1983,employment,1386289.6727531066
+British Columbia,1984,employment,1385510.7648942985
+British Columbia,1985,employment,1422396.875237094
+British Columbia,1986,employment,1481377.71622509
+British Columbia,1987,employment,1534407.7027082115
+British Columbia,1988,employment,1602212.0325031006
+British Columbia,1989,employment,1688242.155688623
+British Columbia,1990,employment,1749727.8339705274
+British Columbia,1991,employment,1765743.881299948
+British Columbia,1992,employment,1808926.5609435784
+British Columbia,1993,employment,1863214.425050532
+British Columbia,1994,employment,1946292.486355316
+British Columbia,1995,employment,1991469.995202948
+British Columbia,1996,employment,2022016.7905314236
+British Columbia,1997,employment,2069750.489666586
+British Columbia,1998,employment,2064009.4346594303
+British Columbia,1999,employment,2102256.3390038847
+British Columbia,2000,employment,2139190.6094415924
+British Columbia,2001,employment,2125831.134418065
+British Columbia,2002,employment,2154949.9432877856
+British Columbia,2003,employment,2202951.0957118534
+British Columbia,2004,employment,2234648.316081832
+British Columbia,2005,employment,2297666.2155644507
+British Columbia,2006,employment,2362887.3237704225
+British Columbia,2007,employment,2421754.928945624
+British Columbia,2008,employment,2454830.233036658
+British Columbia,2009,employment,2406570.82564041
+British Columbia,2010,employment,2426167.1401625774
+British Columbia,2011,employment,2436353.4694515187
+British Columbia,2012,employment,2506853.139287919
+British Columbia,2013,employment,2531818.3175868043
+British Columbia,2014,employment,2564145.853451723
+British Columbia,2015,employment,2598392.224216624
+British Columbia,2016,employment,2695259.892789038
+British Columbia,2017,employment,2795785.1979281115
+British Columbia,2018,employment,2846701.1718995525
+British Columbia,2019,employment,2922201.638581445
+British Columbia,2020,employment,2738413.350023257
+British Columbia,2021,employment,2905443.9803515114
+British Columbia,2022,employment,3023974.436869129
+British Columbia,2023,employment,3136142.344675884
+Manitoba,1976,employment,501395.6574430824
+Manitoba,1977,employment,504508.92606222816
+Manitoba,1978,employment,511445.81645003473
+Manitoba,1979,employment,522777.66984650935
+Manitoba,1980,employment,530249.2466712694
+Manitoba,1981,employment,536508.7076088969
+Manitoba,1982,employment,526332.1258164835
+Manitoba,1983,employment,534881.5986318804
+Manitoba,1984,employment,548062.0049649625
+Manitoba,1985,employment,556479.2060634918
+Manitoba,1986,employment,572956.787859844
+Manitoba,1987,employment,578139.2730744166
+Manitoba,1988,employment,579387.1390745945
+Manitoba,1989,employment,587374.6651503025
+Manitoba,1990,employment,588506.8139767661
+Manitoba,1991,employment,580855.8900673859
+Manitoba,1992,employment,573478.7709311799
+Manitoba,1993,employment,578688.9438923374
+Manitoba,1994,employment,584319.8863595464
+Manitoba,1995,employment,595861.3523826603
+Manitoba,1996,employment,598403.5583563981
+Manitoba,1997,employment,607140.2715578189
+Manitoba,1998,employment,618567.8648238333
+Manitoba,1999,employment,627029.0999941197
+Manitoba,2000,employment,638543.5119661948
+Manitoba,2001,employment,639635.6498898657
+Manitoba,2002,employment,654633.2101422626
+Manitoba,2003,employment,657400.423721497
+Manitoba,2004,employment,663124.8688193265
+Manitoba,2005,employment,666323.9755622288
+Manitoba,2006,employment,673078.1273309916
+Manitoba,2007,employment,682745.1895559324
+Manitoba,2008,employment,692892.4908038585
+Manitoba,2009,employment,689085.2930587989
+Manitoba,2010,employment,699179.0707559449
+Manitoba,2011,employment,705541.2780675609
+Manitoba,2012,employment,711238.7604858058
+Manitoba,2013,employment,718483.4301253128
+Manitoba,2014,employment,720778.210102464
+Manitoba,2015,employment,733804.743014628
+Manitoba,2016,employment,734109.8177021149
+Manitoba,2017,employment,745938.5902901611
+Manitoba,2018,employment,753176.651908793
+Manitoba,2019,employment,762906.4996434894
+Manitoba,2020,employment,729935.0488574997
+Manitoba,2021,employment,761726.0524764245
+Manitoba,2022,employment,790140.9988327915
+Manitoba,2023,employment,815461.8675114134
+New Brunswick,1976,employment,266997.0213214823
+New Brunswick,1977,employment,262796.492317096
+New Brunswick,1978,employment,274864.83079828846
+New Brunswick,1979,employment,287039.7662859212
+New Brunswick,1980,employment,290818.0340117271
+New Brunswick,1981,employment,294556.08058667096
+New Brunswick,1982,employment,282480.8092692191
+New Brunswick,1983,employment,284712.5873634577
+New Brunswick,1984,employment,288703.9505070239
+New Brunswick,1985,employment,295340.0897231261
+New Brunswick,1986,employment,305056.5972863082
+New Brunswick,1987,employment,314919.44342941704
+New Brunswick,1988,employment,326316.30350194545
+New Brunswick,1989,employment,333069.2468523182
+New Brunswick,1990,employment,335886.5939408138
+New Brunswick,1991,employment,329896.8218226045
+New Brunswick,1992,employment,331165.8647335356
+New Brunswick,1993,employment,333818.3208130547
+New Brunswick,1994,employment,331757.9821571086
+New Brunswick,1995,employment,341561.10008089355
+New Brunswick,1996,employment,339970.2558379364
+New Brunswick,1997,employment,344208.2784863527
+New Brunswick,1998,employment,350650.4982314797
+New Brunswick,1999,employment,361226.84884599247
+New Brunswick,2000,employment,366902.1597013262
+New Brunswick,2001,employment,365061.7584410171
+New Brunswick,2002,employment,377167.6385154799
+New Brunswick,2003,employment,376122.08916388144
+New Brunswick,2004,employment,383160.2264096385
+New Brunswick,2005,employment,380820.9905034151
+New Brunswick,2006,employment,383863.5295168226
+New Brunswick,2007,employment,392470.1372143082
+New Brunswick,2008,employment,396387.2379626217
+New Brunswick,2009,employment,396645.6663499905
+New Brunswick,2010,employment,393511.1615436513
+New Brunswick,2011,employment,390470.04347826086
+New Brunswick,2012,employment,388579.00920642976
+New Brunswick,2013,employment,390822.5952047579
+New Brunswick,2014,employment,390705.7246845552
+New Brunswick,2015,employment,388844.9290613287
+New Brunswick,2016,employment,392064.243380155
+New Brunswick,2017,employment,394813.5546283744
+New Brunswick,2018,employment,396037.3742950974
+New Brunswick,2019,employment,398146.6018801868
+New Brunswick,2020,employment,386851.70775849855
+New Brunswick,2021,employment,401013.8377021679
+New Brunswick,2022,employment,413068.63351527706
+New Brunswick,2023,employment,423981.1841910129
+Newfoundland and Labrador,1976,employment,187886.5023156475
+Newfoundland and Labrador,1977,employment,189049.48172757475
+Newfoundland and Labrador,1978,employment,194264.35756359357
+Newfoundland and Labrador,1979,employment,205699.4750386001
+Newfoundland and Labrador,1980,employment,211126.27959390008
+Newfoundland and Labrador,1981,employment,215022.05757305512
+Newfoundland and Labrador,1982,employment,207082.53662436703
+Newfoundland and Labrador,1983,employment,205919.9932334461
+Newfoundland and Labrador,1984,employment,203113.11301785748
+Newfoundland and Labrador,1985,employment,206548.0959491221
+Newfoundland and Labrador,1986,employment,210119.9257105816
+Newfoundland and Labrador,1987,employment,212843.6647416888
+Newfoundland and Labrador,1988,employment,223177.4352349642
+Newfoundland and Labrador,1989,employment,230787.3732925196
+Newfoundland and Labrador,1990,employment,230395.267170655
+Newfoundland and Labrador,1991,employment,227911.4103573705
+Newfoundland and Labrador,1992,employment,215761.40484429064
+Newfoundland and Labrador,1993,employment,214254.1645508716
+Newfoundland and Labrador,1994,employment,213159.7195078956
+Newfoundland and Labrador,1995,employment,213929.24037313432
+Newfoundland and Labrador,1996,employment,207217.19745713373
+Newfoundland and Labrador,1997,employment,207075.9988622573
+Newfoundland and Labrador,1998,employment,210791.5087638465
+Newfoundland and Labrador,1999,employment,219690.58352982104
+Newfoundland and Labrador,2000,employment,215823.3796583851
+Newfoundland and Labrador,2001,employment,220449.7187115426
+Newfoundland and Labrador,2002,employment,223458.01216721116
+Newfoundland and Labrador,2003,employment,227065.22974028508
+Newfoundland and Labrador,2004,employment,230204.34785321527
+Newfoundland and Labrador,2005,employment,229204.422134588
+Newfoundland and Labrador,2006,employment,230666.1031059063
+Newfoundland and Labrador,2007,employment,234075.55023998432
+Newfoundland and Labrador,2008,employment,237622.2352322524
+Newfoundland and Labrador,2009,employment,231760.8222958908
+Newfoundland and Labrador,2010,employment,241323.60514481703
+Newfoundland and Labrador,2011,employment,250068.12007944763
+Newfoundland and Labrador,2012,employment,256997.3140598532
+Newfoundland and Labrador,2013,employment,259223.28840566127
+Newfoundland and Labrador,2014,employment,256281.74943925237
+Newfoundland and Labrador,2015,employment,257041.3825142729
+Newfoundland and Labrador,2016,employment,251859.9463235841
+Newfoundland and Labrador,2017,employment,242440.92932789848
+Newfoundland and Labrador,2018,employment,243461.45617373785
+Newfoundland and Labrador,2019,employment,247842.307761328
+Newfoundland and Labrador,2020,employment,231912.11783409707
+Newfoundland and Labrador,2021,employment,240944.26454679872
+Newfoundland and Labrador,2022,employment,251971.835504432
+Newfoundland and Labrador,2023,employment,256646.06778910055
+Nova Scotia,1976,employment,345249.8757403979
+Nova Scotia,1977,employment,344250.4414035869
+Nova Scotia,1978,employment,352337.939480676
+Nova Scotia,1979,employment,364458.03659621504
+Nova Scotia,1980,employment,371248.3022235225
+Nova Scotia,1981,employment,374854.0085879874
+Nova Scotia,1982,employment,364872.8593982025
+Nova Scotia,1983,employment,367562.71548143966
+Nova Scotia,1984,employment,384367.48107261496
+Nova Scotia,1985,employment,388776.3626161232
+Nova Scotia,1986,employment,395564.3590756469
+Nova Scotia,1987,employment,404854.622829909
+Nova Scotia,1988,employment,421053.0702053128
+Nova Scotia,1989,employment,430674.01980436855
+Nova Scotia,1990,employment,434642.3813412404
+Nova Scotia,1991,employment,428439.3311536001
+Nova Scotia,1992,employment,414968.8867766844
+Nova Scotia,1993,employment,411857.088236326
+Nova Scotia,1994,employment,418101.3567773152
+Nova Scotia,1995,employment,421475.8066233135
+Nova Scotia,1996,employment,422553.23409639945
+Nova Scotia,1997,employment,427694.9285493562
+Nova Scotia,1998,employment,442441.0992815601
+Nova Scotia,1999,employment,450479.313626107
+Nova Scotia,2000,employment,457397.1072350692
+Nova Scotia,2001,employment,460240.5511095638
+Nova Scotia,2002,employment,467395.4808657256
+Nova Scotia,2003,employment,475845.00763612223
+Nova Scotia,2004,employment,486222.3200562891
+Nova Scotia,2005,employment,485635.3768373092
+Nova Scotia,2006,employment,483351.0626724692
+Nova Scotia,2007,employment,488742.0608403947
+Nova Scotia,2008,employment,493583.79977421
+Nova Scotia,2009,employment,491731.8168601826
+Nova Scotia,2010,employment,493646.06350876816
+Nova Scotia,2011,employment,496207.3033054228
+Nova Scotia,2012,employment,499641.98922892805
+Nova Scotia,2013,employment,496592.4430883865
+Nova Scotia,2014,employment,488605.3307963596
+Nova Scotia,2015,employment,485391.8877314566
+Nova Scotia,2016,employment,484658.8953637159
+Nova Scotia,2017,employment,490413.83046760986
+Nova Scotia,2018,employment,495832.54026996746
+Nova Scotia,2019,employment,510604.3564139415
+Nova Scotia,2020,employment,488898.1968983519
+Nova Scotia,2021,employment,517991.85024198703
+Nova Scotia,2022,employment,538002.8929903206
+Nova Scotia,2023,employment,566860.4156393096
+Ontario,1976,employment,4219229.382975465
+Ontario,1977,employment,4269720.758266514
+Ontario,1978,employment,4391176.145273668
+Ontario,1979,employment,4566819.314267984
+Ontario,1980,employment,4635850.28048776
+Ontario,1981,employment,4762556.010631205
+Ontario,1982,employment,4651747.895045113
+Ontario,1983,employment,4694572.165851682
+Ontario,1984,employment,4865215.451132645
+Ontario,1985,employment,5038859.983808926
+Ontario,1986,employment,5212030.072232183
+Ontario,1987,employment,5406410.82380437
+Ontario,1988,employment,5629505.08072762
+Ontario,1989,employment,5813784.522559926
+Ontario,1990,employment,5819526.334644743
+Ontario,1991,employment,5597487.015312302
+Ontario,1992,employment,5491037.084117101
+Ontario,1993,employment,5487646.027020849
+Ontario,1994,employment,5567765.010479913
+Ontario,1995,employment,5656612.907410246
+Ontario,1996,employment,5718131.703243894
+Ontario,1997,employment,5860611.797786386
+Ontario,1998,employment,6041753.886237338
+Ontario,1999,employment,6241139.453728756
+Ontario,2000,employment,6433825.641626302
+Ontario,2001,employment,6548237.871498081
+Ontario,2002,employment,6657274.468024815
+Ontario,2003,employment,6835263.9439569255
+Ontario,2004,employment,6930329.486293145
+Ontario,2005,employment,6983993.2068222
+Ontario,2006,employment,7055447.278176589
+Ontario,2007,employment,7122350.197128538
+Ontario,2008,employment,7178581.798345732
+Ontario,2009,employment,7002833.493036334
+Ontario,2010,employment,7111135.760739097
+Ontario,2011,employment,7229499.056202248
+Ontario,2012,employment,7280702.429034405
+Ontario,2013,employment,7391084.527491677
+Ontario,2014,employment,7423299.683490578
+Ontario,2015,employment,7473202.478794884
+Ontario,2016,employment,7550448.928974268
+Ontario,2017,employment,7719541.772324614
+Ontario,2018,employment,7852875.028784852
+Ontario,2019,employment,8043486.9857760975
+Ontario,2020,employment,7610164.729814989
+Ontario,2021,employment,7978602.724253774
+Ontario,2022,employment,8408889.52826335
+Ontario,2023,employment,8756532.362506138
+Prince Edward Island,1976,employment,49781.44587525152
+Prince Edward Island,1977,employment,50207.52364532021
+Prince Edward Island,1978,employment,51563.3604002309
+Prince Edward Island,1979,employment,53219.63008283133
+Prince Edward Island,1980,employment,54629.82246544847
+Prince Edward Island,1981,employment,53625.289003499725
+Prince Edward Island,1982,employment,52818.33205198609
+Prince Edward Island,1983,employment,55125.13946373942
+Prince Edward Island,1984,employment,56047.34260161163
+Prince Edward Island,1985,employment,57366.924490331614
+Prince Edward Island,1986,employment,59175.10115481462
+Prince Edward Island,1987,employment,60419.06832136989
+Prince Edward Island,1988,employment,61693.0712627869
+Prince Edward Island,1989,employment,62252.88561421494
+Prince Edward Island,1990,employment,62124.005266734624
+Prince Edward Island,1991,employment,60213.05183932347
+Prince Edward Island,1992,employment,60107.40728338216
+Prince Edward Island,1993,employment,61093.63203570544
+Prince Edward Island,1994,employment,62241.85612861106
+Prince Edward Island,1995,employment,63739.09680284192
+Prince Edward Island,1996,employment,65730.48982523342
+Prince Edward Island,1997,employment,65269.33370323399
+Prince Edward Island,1998,employment,66169.44966442953
+Prince Edward Island,1999,employment,66972.41238729909
+Prince Edward Island,2000,employment,69480.26014803273
+Prince Edward Island,2001,employment,70399.50661201763
+Prince Edward Island,2002,employment,71197.71726624222
+Prince Edward Island,2003,employment,72351.77152645604
+Prince Edward Island,2004,employment,72956.33647680121
+Prince Edward Island,2005,employment,73993.1367003367
+Prince Edward Island,2006,employment,73975.78360875392
+Prince Edward Island,2007,employment,73959.44402431791
+Prince Edward Island,2008,employment,74546.89986030439
+Prince Edward Island,2009,employment,74211.5016020973
+Prince Edward Island,2010,employment,75777.59101637937
+Prince Edward Island,2011,employment,77992.848143982
+Prince Edward Island,2012,employment,78911.90396980711
+Prince Edward Island,2013,employment,79791.60389246709
+Prince Edward Island,2014,employment,79107.66449989517
+Prince Edward Island,2015,employment,79033.05785584832
+Prince Edward Island,2016,employment,78717.5313014827
+Prince Edward Island,2017,employment,81219.19666845782
+Prince Edward Island,2018,employment,82873.89898857218
+Prince Edward Island,2019,employment,85435.23439099283
+Prince Edward Island,2020,employment,83088.9786055877
+Prince Edward Island,2021,employment,86973.95546458254
+Prince Edward Island,2022,employment,91355.71047117285
+Prince Edward Island,2023,employment,93313.40212014134
+Quebec,1976,employment,2854245.4819182195
+Quebec,1977,employment,2856802.2557645887
+Quebec,1978,employment,2890457.185072136
+Quebec,1979,employment,2986698.6489228453
+Quebec,1980,employment,3052583.889203377
+Quebec,1981,employment,3090405.013564969
+Quebec,1982,employment,2929145.7711136565
+Quebec,1983,employment,2977754.0237433645
+Quebec,1984,employment,3065895.4689179137
+Quebec,1985,employment,3163808.8951339093
+Quebec,1986,employment,3259253.727951442
+Quebec,1987,employment,3366474.153906248
+Quebec,1988,employment,3432478.7808300643
+Quebec,1989,employment,3490592.7446847963
+Quebec,1990,employment,3492558.842332237
+Quebec,1991,employment,3421348.161965512
+Quebec,1992,employment,3356981.8218715885
+Quebec,1993,employment,3346449.6523157167
+Quebec,1994,employment,3414161.5523517444
+Quebec,1995,employment,3458102.328218578
+Quebec,1996,employment,3454217.597405332
+Quebec,1997,employment,3506924.182969735
+Quebec,1998,employment,3602275.2768678125
+Quebec,1999,employment,3683639.127337977
+Quebec,2000,employment,3762201.67079636
+Quebec,2001,employment,3802514.9863878335
+Quebec,2002,employment,3920972.886264314
+Quebec,2003,employment,3979704.9713697783
+Quebec,2004,employment,4025911.352897594
+Quebec,2005,employment,4048573.2486944967
+Quebec,2006,employment,4069954.711176658
+Quebec,2007,employment,4154152.546192454
+Quebec,2008,employment,4195044.678972128
+Quebec,2009,employment,4169016.7217756594
+Quebec,2010,employment,4246912.927347026
+Quebec,2011,employment,4299135.258351967
+Quebec,2012,employment,4344561.087996174
+Quebec,2013,employment,4388226.034850122
+Quebec,2014,employment,4372482.28941422
+Quebec,2015,employment,4401655.630917151
+Quebec,2016,employment,4434779.441444142
+Quebec,2017,employment,4544276.044098217
+Quebec,2018,employment,4621908.6816475885
+Quebec,2019,employment,4698349.85825212
+Quebec,2020,employment,4444672.315589497
+Quebec,2021,employment,4622951.011470128
+Quebec,2022,employment,4784218.524099479
+Quebec,2023,employment,4969487.478492608
+Saskatchewan,1976,employment,442770.3132725842
+Saskatchewan,1977,employment,456467.2252872136
+Saskatchewan,1978,employment,464850.2092070172
+Saskatchewan,1979,employment,479175.040343006
+Saskatchewan,1980,employment,486505.131959646
+Saskatchewan,1981,employment,494806.2012739752
+Saskatchewan,1982,employment,493241.7013208401
+Saskatchewan,1983,employment,501058.00331417215
+Saskatchewan,1984,employment,508764.7328865109
+Saskatchewan,1985,employment,521595.54602636455
+Saskatchewan,1986,employment,533135.576645902
+Saskatchewan,1987,employment,532440.5931940536
+Saskatchewan,1988,employment,534307.9618560142
+Saskatchewan,1989,employment,527441.6350076377
+Saskatchewan,1990,employment,525101.6429123037
+Saskatchewan,1991,employment,524000.890636926
+Saskatchewan,1992,employment,518027.90594070667
+Saskatchewan,1993,employment,518086.5045055256
+Saskatchewan,1994,employment,524788.0962469119
+Saskatchewan,1995,employment,529350.3036008473
+Saskatchewan,1996,employment,528344.7051755387
+Saskatchewan,1997,employment,539526.7073227924
+Saskatchewan,1998,employment,544526.2036506999
+Saskatchewan,1999,employment,545089.9034843594
+Saskatchewan,2000,employment,547593.386031094
+Saskatchewan,2001,employment,532717.9288073519
+Saskatchewan,2002,employment,541393.6305852737
+Saskatchewan,2003,employment,550163.5189078928
+Saskatchewan,2004,employment,554874.05823618
+Saskatchewan,2005,employment,556169.6536181498
+Saskatchewan,2006,employment,566581.1371960706
+Saskatchewan,2007,employment,582697.1910970631
+Saskatchewan,2008,employment,594620.3155544047
+Saskatchewan,2009,employment,604509.5036703564
+Saskatchewan,2010,employment,612781.0128848274
+Saskatchewan,2011,employment,618429.756851001
+Saskatchewan,2012,employment,629783.5879567461
+Saskatchewan,2013,employment,645483.9523083819
+Saskatchewan,2014,employment,649713.9765572672
+Saskatchewan,2015,employment,650614.1818430943
+Saskatchewan,2016,employment,646614.6579544133
+Saskatchewan,2017,employment,647908.8477973188
+Saskatchewan,2018,employment,651623.9566011009
+Saskatchewan,2019,employment,661929.347301719
+Saskatchewan,2020,employment,627408.5775135602
+Saskatchewan,2021,employment,643395.6629882903
+Saskatchewan,2022,employment,665279.7040712421
+Saskatchewan,2023,employment,683654.625
+Alberta,1976,unemployment,40092.77632085418
+Alberta,1977,unemployment,48679.20939040933
+Alberta,1978,unemployment,54442.68979753867
+Alberta,1979,unemployment,48453.74112881826
+Alberta,1980,unemployment,50208.78024042059
+Alberta,1981,unemployment,53882.997410391705
+Alberta,1982,unemployment,110854.49875180596
+Alberta,1983,unemployment,158414.10190264505
+Alberta,1984,unemployment,165390.6778541411
+Alberta,1985,unemployment,143397.3146113942
+Alberta,1986,unemployment,148952.91623626582
+Alberta,1987,unemployment,141721.19827277484
+Alberta,1988,unemployment,120595.6132869333
+Alberta,1989,unemployment,109716.16386734124
+Alberta,1990,unemployment,108080.16464777885
+Alberta,1991,unemployment,131194.90953733356
+Alberta,1992,unemployment,152052.37207995853
+Alberta,1993,unemployment,155159.80646541048
+Alberta,1994,unemployment,144478.280099194
+Alberta,1995,unemployment,131468.95652421511
+Alberta,1996,unemployment,117592.0269617336
+Alberta,1997,unemployment,102269.59408760276
+Alberta,1998,unemployment,100764.85808884504
+Alberta,1999,unemployment,104363.9707786928
+Alberta,2000,unemployment,92806.26895595068
+Alberta,2001,unemployment,90289.20608401528
+Alberta,2002,unemployment,105781.84717729034
+Alberta,2003,unemployment,103784.72110257768
+Alberta,2004,unemployment,94791.68906567695
+Alberta,2005,unemployment,82700.80469623674
+Alberta,2006,unemployment,77782.88111192755
+Alberta,2007,unemployment,84298.49961310289
+Alberta,2008,unemployment,90913.35247832656
+Alberta,2009,unemployment,162315.25918287042
+Alberta,2010,unemployment,155491.25567224523
+Alberta,2011,unemployment,134825.10970681062
+Alberta,2012,unemployment,118707.41188938433
+Alberta,2013,unemployment,118504.50959316124
+Alberta,2014,unemployment,125369.1461278662
+Alberta,2015,unemployment,161888.8970997546
+Alberta,2016,unemployment,217677.61133489307
+Alberta,2017,unemployment,214067.0670553354
+Alberta,2018,unemployment,178196.68037154488
+Alberta,2019,unemployment,188306.03451653183
+Alberta,2020,unemployment,304325.3595002346
+Alberta,2021,unemployment,229263.29295789264
+Alberta,2022,unemployment,159397.71919168625
+Alberta,2023,unemployment,175140.36730643784
+British Columbia,1976,unemployment,110348.80733137824
+British Columbia,1977,unemployment,112150.83522554811
+British Columbia,1978,unemployment,115660.50519946452
+British Columbia,1979,unemployment,111118.26979082749
+British Columbia,1980,unemployment,101650.91790392662
+British Columbia,1981,unemployment,108014.80743134064
+British Columbia,1982,unemployment,194153.4080620214
+British Columbia,1983,unemployment,223472.11429092183
+British Columbia,1984,unemployment,244739.22137823747
+British Columbia,1985,unemployment,237395.0505403033
+British Columbia,1986,unemployment,217229.54280748605
+British Columbia,1987,unemployment,210473.4134714736
+British Columbia,1988,unemployment,183293.39150475396
+British Columbia,1989,unemployment,167324.79580165498
+British Columbia,1990,unemployment,160889.45984366917
+British Columbia,1991,unemployment,194139.81931893804
+British Columbia,1992,unemployment,205165.7920559012
+British Columbia,1993,unemployment,200040.2999031472
+British Columbia,1994,unemployment,194845.96117051048
+British Columbia,1995,unemployment,184199.0096591972
+British Columbia,1996,unemployment,192475.2258920851
+British Columbia,1997,unemployment,191628.96375232065
+British Columbia,1998,unemployment,199665.21597688916
+British Columbia,1999,unemployment,188245.7507951639
+British Columbia,2000,unemployment,165419.9850418147
+British Columbia,2001,unemployment,178857.27073453777
+British Columbia,2002,unemployment,202417.53456400137
+British Columbia,2003,unemployment,192927.8932050065
+British Columbia,2004,unemployment,171329.3069797061
+British Columbia,2005,unemployment,142150.97750055234
+British Columbia,2006,unemployment,121226.68727562371
+British Columbia,2007,unemployment,110753.68579819013
+British Columbia,2008,unemployment,124433.90390531444
+British Columbia,2009,unemployment,204090.16874402543
+British Columbia,2010,unemployment,204003.16148320996
+British Columbia,2011,unemployment,200650.5975728449
+British Columbia,2012,unemployment,185818.48218469488
+British Columbia,2013,unemployment,181564.40665485465
+British Columbia,2014,unemployment,171435.48894965614
+British Columbia,2015,unemployment,170227.3064881665
+British Columbia,2016,unemployment,173165.306569932
+British Columbia,2017,unemployment,155068.6590088612
+British Columbia,2018,unemployment,139125.79324011927
+British Columbia,2019,unemployment,148706.20730815802
+British Columbia,2020,unemployment,275331.5549965113
+British Columbia,2021,unemployment,202840.59428247437
+British Columbia,2022,unemployment,145426.5883402904
+British Columbia,2023,unemployment,143071.5676063925
+Manitoba,1976,unemployment,24559.175120049684
+Manitoba,1977,unemployment,30160.18173302113
+Manitoba,1978,unemployment,35600.856426623126
+Manitoba,1979,unemployment,30093.5736810254
+Manitoba,1980,unemployment,30710.81864308339
+Manitoba,1981,unemployment,34120.65687565997
+Manitoba,1982,unemployment,49481.12404093441
+Manitoba,1983,unemployment,56049.63983455295
+Manitoba,1984,unemployment,51078.89865820317
+Manitoba,1985,unemployment,50257.352765212985
+Manitoba,1986,unemployment,47092.46934216051
+Manitoba,1987,unemployment,46769.46768970717
+Manitoba,1988,unemployment,48431.68321954294
+Manitoba,1989,unemployment,47003.3345660124
+Manitoba,1990,unemployment,46811.41526888901
+Manitoba,1991,unemployment,54780.60400487512
+Manitoba,1992,unemployment,58743.57471865477
+Manitoba,1993,unemployment,59600.624715450445
+Manitoba,1994,unemployment,55918.07320096783
+Manitoba,1995,unemployment,46487.95638182339
+Manitoba,1996,unemployment,46689.02093191676
+Manitoba,1997,unemployment,42073.1132248973
+Manitoba,1998,unemployment,36385.77801218481
+Manitoba,1999,unemployment,37215.357001450575
+Manitoba,2000,unemployment,33117.15784861639
+Manitoba,2001,unemployment,34308.62068965524
+Manitoba,2002,unemployment,34999.76953450105
+Manitoba,2003,unemployment,34237.792983701496
+Manitoba,2004,unemployment,36953.90885196745
+Manitoba,2005,unemployment,33114.88953110725
+Manitoba,2006,unemployment,31980.805289808963
+Manitoba,2007,unemployment,33140.08180630096
+Manitoba,2008,unemployment,30657.26412494256
+Manitoba,2009,unemployment,39370.2900602438
+Manitoba,2010,unemployment,40153.845345925
+Manitoba,2011,unemployment,40599.55489319429
+Manitoba,2012,unemployment,40803.07157492863
+Manitoba,2013,unemployment,41389.97956196803
+Manitoba,2014,unemployment,41595.85703025939
+Manitoba,2015,unemployment,44194.0121263515
+Manitoba,2016,unemployment,47608.28768232713
+Manitoba,2017,unemployment,42314.92923059237
+Manitoba,2018,unemployment,47702.9479744414
+Manitoba,2019,unemployment,43010.56472869159
+Manitoba,2020,unemployment,64854.06930559194
+Manitoba,2021,unemployment,52321.69121166498
+Manitoba,2022,unemployment,37536.89740315696
+Manitoba,2023,unemployment,35330.315102953406
+New Brunswick,1976,unemployment,32934.316450223945
+New Brunswick,1977,unemployment,40538.778019253936
+New Brunswick,1978,unemployment,39162.42005415523
+New Brunswick,1979,unemployment,34775.89815332962
+New Brunswick,1980,unemployment,36215.0759335358
+New Brunswick,1981,unemployment,38480.79113546622
+New Brunswick,1982,unemployment,46432.99610590655
+New Brunswick,1983,unemployment,49928.85901768169
+New Brunswick,1984,unemployment,49445.80419884019
+New Brunswick,1985,unemployment,52985.19371968808
+New Brunswick,1986,unemployment,50781.79804163436
+New Brunswick,1987,unemployment,47702.30004378877
+New Brunswick,1988,unemployment,43462.09697695306
+New Brunswick,1989,unemployment,45362.06037624058
+New Brunswick,1990,unemployment,46161.10709735996
+New Brunswick,1991,unemployment,48182.88702111023
+New Brunswick,1992,unemployment,49245.82649261772
+New Brunswick,1993,unemployment,48382.6931577441
+New Brunswick,1994,unemployment,47840.08663493334
+New Brunswick,1995,unemployment,44196.68563643332
+New Brunswick,1996,unemployment,45141.00971929882
+New Brunswick,1997,unemployment,49397.34892354421
+New Brunswick,1998,unemployment,48327.986553631046
+New Brunswick,1999,unemployment,40502.7035949084
+New Brunswick,2000,unemployment,40913.38437534827
+New Brunswick,2001,unemployment,45903.21265805195
+New Brunswick,2002,unemployment,42755.47340558219
+New Brunswick,2003,unemployment,42505.21962268315
+New Brunswick,2004,unemployment,41392.26419277106
+New Brunswick,2005,unemployment,40789.82581806694
+New Brunswick,2006,unemployment,38812.52249653103
+New Brunswick,2007,unemployment,32997.5008843248
+New Brunswick,2008,unemployment,37526.43550258703
+New Brunswick,2009,unemployment,38554.0281208436
+New Brunswick,2010,unemployment,41094.4623262717
+New Brunswick,2011,unemployment,41653.78381642508
+New Brunswick,2012,unemployment,45685.15116449984
+New Brunswick,2013,unemployment,45825.79717566106
+New Brunswick,2014,unemployment,43398.58321354415
+New Brunswick,2015,unemployment,42964.677087486976
+New Brunswick,2016,unemployment,42354.95879956616
+New Brunswick,2017,unemployment,35938.64880161106
+New Brunswick,2018,unemployment,35029.30131232907
+New Brunswick,2019,unemployment,35605.04797717845
+New Brunswick,2020,unemployment,44651.85885793045
+New Brunswick,2021,unemployment,40331.006902203866
+New Brunswick,2022,unemployment,32087.74116318463
+New Brunswick,2023,unemployment,34612.99495773393
+Newfoundland and Labrador,1976,unemployment,29018.321470323717
+Newfoundland and Labrador,1977,unemployment,34749.151162790724
+Newfoundland and Labrador,1978,unemployment,36888.59753915966
+Newfoundland and Labrador,1979,unemployment,35582.441242065535
+Newfoundland and Labrador,1980,unemployment,32428.99654562304
+Newfoundland and Labrador,1981,unemployment,33537.93475330283
+Newfoundland and Labrador,1982,unemployment,40324.79425572482
+Newfoundland and Labrador,1983,unemployment,45428.83228612855
+Newfoundland and Labrador,1984,unemployment,51402.02036590951
+Newfoundland and Labrador,1985,unemployment,52131.676621042425
+Newfoundland and Labrador,1986,unemployment,48982.3682649433
+Newfoundland and Labrador,1987,unemployment,46078.11066021541
+Newfoundland and Labrador,1988,unemployment,42922.32247147556
+Newfoundland and Labrador,1989,unemployment,41865.7470441936
+Newfoundland and Labrador,1990,unemployment,47017.73860815857
+Newfoundland and Labrador,1991,unemployment,49966.263246709445
+Newfoundland and Labrador,1992,unemployment,54184.96818841388
+Newfoundland and Labrador,1993,unemployment,53729.25852178094
+Newfoundland and Labrador,1994,unemployment,53152.324618210834
+Newfoundland and Labrador,1995,unemployment,46669.97680970148
+Newfoundland and Labrador,1996,unemployment,48631.76853156047
+Newfoundland and Labrador,1997,unemployment,46028.03515625003
+Newfoundland and Labrador,1998,unemployment,45335.70715506152
+Newfoundland and Labrador,1999,unemployment,43954.44316029532
+Newfoundland and Labrador,2000,unemployment,42893.541032608686
+Newfoundland and Labrador,2001,unemployment,42056.993631941856
+Newfoundland and Labrador,2002,unemployment,44871.77418282116
+Newfoundland and Labrador,2003,unemployment,45152.103143917215
+Newfoundland and Labrador,2004,unemployment,42241.14463986273
+Newfoundland and Labrador,2005,unemployment,40925.18872381549
+Newfoundland and Labrador,2006,unemployment,40518.90656822812
+Newfoundland and Labrador,2007,unemployment,37029.55864433347
+Newfoundland and Labrador,2008,unemployment,36764.63423897167
+Newfoundland and Labrador,2009,unemployment,43722.711741577376
+Newfoundland and Labrador,2010,unemployment,41855.31785442078
+Newfoundland and Labrador,2011,unemployment,37678.43329234843
+Newfoundland and Labrador,2012,unemployment,37657.54327122148
+Newfoundland and Labrador,2013,unemployment,34798.248533133374
+Newfoundland and Labrador,2014,unemployment,36868.13248598134
+Newfoundland and Labrador,2015,unemployment,38850.31120564197
+Newfoundland and Labrador,2016,unemployment,39992.81610478531
+Newfoundland and Labrador,2017,unemployment,43410.09177880763
+Newfoundland and Labrador,2018,unemployment,39660.98914138585
+Newfoundland and Labrador,2019,unemployment,34470.45580978013
+Newfoundland and Labrador,2020,unemployment,39182.11474796598
+Newfoundland and Labrador,2021,unemployment,36209.66231214089
+Newfoundland and Labrador,2022,unemployment,31673.72404437593
+Newfoundland and Labrador,2023,unemployment,34365.40097474523
+Nova Scotia,1976,unemployment,34886.985905935835
+Nova Scotia,1977,unemployment,39866.65489126659
+Nova Scotia,1978,unemployment,41554.854652277485
+Nova Scotia,1979,unemployment,40437.91078071924
+Nova Scotia,1980,unemployment,39568.78456300865
+Nova Scotia,1981,unemployment,41330.276817702834
+Nova Scotia,1982,unemployment,53726.283391949975
+Nova Scotia,1983,unemployment,57273.3092058039
+Nova Scotia,1984,unemployment,57920.4534488638
+Nova Scotia,1985,unemployment,60298.27595236613
+Nova Scotia,1986,unemployment,60467.658502863975
+Nova Scotia,1987,unemployment,55045.94082405263
+Nova Scotia,1988,unemployment,47714.77595601827
+Nova Scotia,1989,unemployment,47060.904198477816
+Nova Scotia,1990,unemployment,52106.717500209175
+Nova Scotia,1991,unemployment,58966.421446679495
+Nova Scotia,1992,unemployment,62393.86753142808
+Nova Scotia,1993,unemployment,68987.72423955366
+Nova Scotia,1994,unemployment,65138.60665519082
+Nova Scotia,1995,unemployment,58252.8297192845
+Nova Scotia,1996,unemployment,59879.14022776951
+Nova Scotia,1997,unemployment,58751.30108154512
+Nova Scotia,1998,unemployment,51602.30217812749
+Nova Scotia,1999,unemployment,47664.1097164109
+Nova Scotia,2000,unemployment,45635.9925586011
+Nova Scotia,2001,unemployment,49716.0612169265
+Nova Scotia,2002,unemployment,49537.19187796884
+Nova Scotia,2003,unemployment,47543.13492695881
+Nova Scotia,2004,unemployment,46989.56698072764
+Nova Scotia,2005,unemployment,44793.65666688573
+Nova Scotia,2006,unemployment,43455.60748448469
+Nova Scotia,2007,unemployment,43603.00246149824
+Nova Scotia,2008,unemployment,42343.86784772199
+Nova Scotia,2009,unemployment,50850.61521844784
+Nova Scotia,2010,unemployment,52244.556866872095
+Nova Scotia,2011,unemployment,49413.43936137224
+Nova Scotia,2012,unemployment,51029.12292699608
+Nova Scotia,2013,unemployment,49173.95705935247
+Nova Scotia,2014,unemployment,48350.574956853576
+Nova Scotia,2015,unemployment,46871.140976677336
+Nova Scotia,2016,unemployment,44386.28761382787
+Nova Scotia,2017,unemployment,45859.27371359692
+Nova Scotia,2018,unemployment,42042.16853591362
+Nova Scotia,2019,unemployment,40644.34849409104
+Nova Scotia,2020,unemployment,53558.11684921694
+Nova Scotia,2021,unemployment,48519.37832161452
+Nova Scotia,2022,unemployment,37847.54461877182
+Nova Scotia,2023,unemployment,29947.769167547263
+Ontario,1976,unemployment,275663.3742442458
+Ontario,1977,unemployment,319049.64317380515
+Ontario,1978,unemployment,343069.08672893106
+Ontario,1979,unemployment,321671.9298961505
+Ontario,1980,unemployment,340263.2556253824
+Ontario,1981,unemployment,335882.784314737
+Ontario,1982,unemployment,510004.2204678461
+Ontario,1983,unemployment,545270.2690159273
+Ontario,1984,unemployment,479927.3687993324
+Ontario,1985,unemployment,432916.5012800836
+Ontario,1986,unemployment,390904.7792784782
+Ontario,1987,unemployment,350187.586896109
+Ontario,1988,unemployment,299211.42886087147
+Ontario,1989,unemployment,304188.84698702215
+Ontario,1990,unemployment,383646.2438644185
+Ontario,1991,unemployment,589581.5835914906
+Ontario,1992,unemployment,664359.4010961069
+Ontario,1993,unemployment,672183.7724201266
+Ontario,1994,unemployment,594581.8043749479
+Ontario,1995,unemployment,543114.2570237754
+Ontario,1996,unemployment,566656.4645809741
+Ontario,1997,unemployment,535267.2474393162
+Ontario,1998,unemployment,467831.9432112404
+Ontario,1999,unemployment,421639.2593652077
+Ontario,2000,unemployment,394424.082025565
+Ontario,2001,unemployment,444717.67586678336
+Ontario,2002,unemployment,508364.5242468311
+Ontario,2003,unemployment,509048.04142180434
+Ontario,2004,unemployment,501445.7949807594
+Ontario,2005,unemployment,496785.188541938
+Ontario,2006,unemployment,487196.3509131264
+Ontario,2007,unemployment,491177.7810328556
+Ontario,2008,unemployment,509407.7311478435
+Ontario,2009,unemployment,705865.2156624158
+Ontario,2010,unemployment,680839.0789094619
+Ontario,2011,unemployment,631379.4780333907
+Ontario,2012,unemployment,632598.5721005707
+Ontario,2013,unemployment,609005.7955029126
+Ontario,2014,unemployment,589460.2349209759
+Ontario,2015,unemployment,542235.4590790557
+Ontario,2016,unemployment,529939.0487768402
+Ontario,2017,unemployment,499659.02950624254
+Ontario,2018,unemployment,469669.99117184593
+Ontario,2019,unemployment,473452.0352371617
+Ontario,2020,unemployment,823575.9065754958
+Ontario,2021,unemployment,705829.8686616922
+Ontario,2022,unemployment,500671.6508089848
+Ontario,2023,unemployment,475882.73511664267
+Prince Edward Island,1976,unemployment,5057.285311871222
+Prince Edward Island,1977,unemployment,5331.007389162558
+Prince Edward Island,1978,unemployment,5582.194150471426
+Prince Edward Island,1979,unemployment,6863.661709337352
+Prince Edward Island,1980,unemployment,6379.359614135986
+Prince Edward Island,1981,unemployment,6802.783477620186
+Prince Edward Island,1982,unemployment,7683.009701629134
+Prince Edward Island,1983,unemployment,7873.67284506029
+Prince Edward Island,1984,unemployment,8086.291685114664
+Prince Edward Island,1985,unemployment,8871.368273689724
+Prince Edward Island,1986,unemployment,8921.581140922115
+Prince Edward Island,1987,unemployment,8477.718498659524
+Prince Edward Island,1988,unemployment,8608.55480099717
+Prince Edward Island,1989,unemployment,9817.997095506567
+Prince Edward Island,1990,unemployment,10338.336731226644
+Prince Edward Island,1991,unemployment,11915.016490486252
+Prince Edward Island,1992,unemployment,12923.512766848056
+Prince Edward Island,1993,unemployment,12576.45673196132
+Prince Edward Island,1994,unemployment,12457.68189978782
+Prince Edward Island,1995,unemployment,11254.094138543507
+Prince Edward Island,1996,unemployment,11144.06918841273
+Prince Edward Island,1997,unemployment,11805.510621433106
+Prince Edward Island,1998,unemployment,10731.683853138577
+Prince Edward Island,1999,unemployment,11081.899176793417
+Prince Edward Island,2000,unemployment,9693.84752629527
+Prince Edward Island,2001,unemployment,9457.199907199756
+Prince Edward Island,2002,unemployment,9514.437217151186
+Prince Edward Island,2003,unemployment,8789.034564141597
+Prince Edward Island,2004,unemployment,9178.84873632592
+Prince Edward Island,2005,unemployment,9117.07654320987
+Prince Edward Island,2006,unemployment,9610.77713264849
+Prince Edward Island,2007,unemployment,8640.502075919325
+Prince Edward Island,2008,unemployment,9403.126240717598
+Prince Edward Island,2009,unemployment,10106.203029420323
+Prince Edward Island,2010,unemployment,9908.685001072883
+Prince Edward Island,2011,unemployment,10100.506327334091
+Prince Edward Island,2012,unemployment,10117.604417109302
+Prince Edward Island,2013,unemployment,10403.288994679377
+Prince Edward Island,2014,unemployment,9340.727196477248
+Prince Edward Island,2015,unemployment,9363.93503415585
+Prince Edward Island,2016,unemployment,9490.252883031311
+Prince Edward Island,2017,unemployment,8965.228371843099
+Prince Edward Island,2018,unemployment,9002.964140286338
+Prince Edward Island,2019,unemployment,8180.15967246674
+Prince Edward Island,2020,unemployment,9908.288572866844
+Prince Edward Island,2021,unemployment,9544.927056196506
+Prince Edward Island,2022,unemployment,7420.900197569319
+Prince Edward Island,2023,unemployment,7674.1653710247265
+Quebec,1976,unemployment,272793.6713399475
+Quebec,1977,unemployment,330347.65917057905
+Quebec,1978,unemployment,356209.79578259005
+Quebec,1979,unemployment,321611.4708166337
+Quebec,1980,unemployment,339896.4399383796
+Quebec,1981,unemployment,365524.3311650537
+Quebec,1982,unemployment,481036.7457151609
+Quebec,1983,unemployment,489490.6472500439
+Quebec,1984,unemployment,463714.5391645924
+Quebec,1985,unemployment,439024.73472340027
+Quebec,1986,unemployment,404012.1522448487
+Quebec,1987,unemployment,381133.58695617947
+Quebec,1988,unemployment,359355.4100295175
+Quebec,1989,unemployment,368938.043016069
+Quebec,1990,unemployment,408181.9087378731
+Quebec,1991,unemployment,473072.219403477
+Quebec,1992,unemployment,490981.6862295824
+Quebec,1993,unemployment,510828.3334917543
+Quebec,1994,unemployment,477480.2483161809
+Quebec,1995,unemployment,443957.5503855094
+Quebec,1996,unemployment,463550.3056403231
+Quebec,1997,unemployment,452146.8368798014
+Quebec,1998,unemployment,415682.9538900476
+Quebec,1999,unemployment,380315.9896001168
+Quebec,2000,unemployment,347660.9541261554
+Quebec,2001,unemployment,362006.3281941421
+Quebec,2002,unemployment,375096.8839845905
+Quebec,2003,unemployment,401094.2556791213
+Quebec,2004,unemployment,374235.69016237033
+Quebec,2005,unemployment,361427.2862878511
+Quebec,2006,unemployment,364360.77052479977
+Quebec,2007,unemployment,332631.14104988205
+Quebec,2008,unemployment,339037.7316335314
+Quebec,2009,unemployment,402229.26033245225
+Quebec,2010,unemployment,380449.57745776896
+Quebec,2011,unemployment,372359.3092773904
+Quebec,2012,unemployment,368482.3864179821
+Quebec,2013,unemployment,371233.86372750025
+Quebec,2014,unemployment,373693.2511595335
+Quebec,2015,unemployment,368117.98436043545
+Quebec,2016,unemployment,341643.11412929266
+Quebec,2017,unemployment,288686.63751465856
+Quebec,2018,unemployment,265905.93365385424
+Quebec,2019,unemployment,251312.8912220302
+Quebec,2020,unemployment,436014.7879246148
+Quebec,2021,unemployment,301199.0618149581
+Quebec,2022,unemployment,214439.5121169879
+Quebec,2023,unemployment,204106.31034769944
+Saskatchewan,1976,unemployment,17724.71426758382
+Saskatchewan,1977,unemployment,20950.512426256
+Saskatchewan,1978,unemployment,23463.98666536172
+Saskatchewan,1979,unemployment,20590.189364884063
+Saskatchewan,1980,unemployment,21913.61016465213
+Saskatchewan,1981,unemployment,23160.85637222645
+Saskatchewan,1982,unemployment,33481.40143564525
+Saskatchewan,1983,unemployment,41433.05440956306
+Saskatchewan,1984,unemployment,44952.33004787387
+Saskatchewan,1985,unemployment,46223.75398701848
+Saskatchewan,1986,unemployment,44602.17949742952
+Saskatchewan,1987,unemployment,41952.135055497645
+Saskatchewan,1988,unemployment,42134.36207855791
+Saskatchewan,1989,unemployment,41824.66906280888
+Saskatchewan,1990,unemployment,39798.089842596666
+Saskatchewan,1991,unemployment,41495.963055786495
+Saskatchewan,1992,unemployment,45095.74923209937
+Saskatchewan,1993,unemployment,46896.59115896856
+Saskatchewan,1994,unemployment,38535.27614019657
+Saskatchewan,1995,unemployment,38355.08724741958
+Saskatchewan,1996,unemployment,36850.67278646709
+Saskatchewan,1997,unemployment,34004.15010719558
+Saskatchewan,1998,unemployment,33625.27202058107
+Saskatchewan,1999,unemployment,34736.595346766044
+Saskatchewan,2000,unemployment,29447.870846772847
+Saskatchewan,2001,unemployment,32593.48712533144
+Saskatchewan,2002,unemployment,32628.030657196807
+Saskatchewan,2003,unemployment,32904.147654166074
+Saskatchewan,2004,unemployment,30985.748089473986
+Saskatchewan,2005,unemployment,29558.43835662225
+Saskatchewan,2006,unemployment,28178.852824821013
+Saskatchewan,2007,unemployment,26521.936388779024
+Saskatchewan,2008,unemployment,26392.51975316643
+Saskatchewan,2009,unemployment,32031.99162120654
+Saskatchewan,2010,unemployment,34466.19012926455
+Saskatchewan,2011,unemployment,32325.2340006563
+Saskatchewan,2012,unemployment,32151.572367557437
+Saskatchewan,2013,unemployment,28239.803496190063
+Saskatchewan,2014,unemployment,26342.597454788985
+Saskatchewan,2015,unemployment,35550.64373238336
+Saskatchewan,2016,unemployment,44352.4566810094
+Saskatchewan,2017,unemployment,44484.554055349945
+Saskatchewan,2018,unemployment,42437.4733759874
+Saskatchewan,2019,unemployment,38688.841874982354
+Saskatchewan,2020,unemployment,56814.955715921344
+Saskatchewan,2021,unemployment,45004.1126744731
+Saskatchewan,2022,unemployment,32500.774406161465
+Saskatchewan,2023,unemployment,30758.65460526309

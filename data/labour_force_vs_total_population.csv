@@ -1,0 +1,1441 @@
+GEO,year,variable,value
+Alberta,1976,Population_0_14,343036.0
+Alberta,1977,Population_0_14,344571.0
+Alberta,1978,Population_0_14,345699.0
+Alberta,1979,Population_0_14,349992.0
+Alberta,1980,Population_0_14,360128.0
+Alberta,1981,Population_0_14,371817.0
+Alberta,1982,Population_0_14,381050.0
+Alberta,1983,Population_0_14,385929.0
+Alberta,1984,Population_0_14,385765.0
+Alberta,1985,Population_0_14,384229.0
+Alberta,1986,Population_0_14,383621.0
+Alberta,1987,Population_0_14,383440.0
+Alberta,1988,Population_0_14,382814.0
+Alberta,1989,Population_0_14,388490.0
+Alberta,1990,Population_0_14,395155.0
+Alberta,1991,Population_0_14,400358.0
+Alberta,1992,Population_0_14,407328.0
+Alberta,1993,Population_0_14,412108.0
+Alberta,1994,Population_0_14,413624.0
+Alberta,1995,Population_0_14,412458.0
+Alberta,1996,Population_0_14,412073.0
+Alberta,1997,Population_0_14,412660.0
+Alberta,1998,Population_0_14,414765.0
+Alberta,1999,Population_0_14,415510.0
+Alberta,2000,Population_0_14,416708.0
+Alberta,2001,Population_0_14,416172.0
+Alberta,2002,Population_0_14,419734.0
+Alberta,2003,Population_0_14,422753.0
+Alberta,2004,Population_0_14,424676.0
+Alberta,2005,Population_0_14,429538.0
+Alberta,2006,Population_0_14,437694.0
+Alberta,2007,Population_0_14,445369.0
+Alberta,2008,Population_0_14,453440.0
+Alberta,2009,Population_0_14,461671.0
+Alberta,2010,Population_0_14,468309.0
+Alberta,2011,Population_0_14,473459.0
+Alberta,2012,Population_0_14,481678.0
+Alberta,2013,Population_0_14,491839.0
+Alberta,2014,Population_0_14,501828.0
+Alberta,2015,Population_0_14,509665.0
+Alberta,2016,Population_0_14,518900.0
+Alberta,2017,Population_0_14,526888.0
+Alberta,2018,Population_0_14,534835.0
+Alberta,2019,Population_0_14,541729.0
+Alberta,2020,Population_0_14,545969.0
+Alberta,2021,Population_0_14,542259.0
+Alberta,2022,Population_0_14,543265.0
+Alberta,2023,Population_0_14,552145.0
+British Columbia,1976,Population_0_14,407970.0
+British Columbia,1977,Population_0_14,401106.0
+British Columbia,1978,Population_0_14,394302.0
+British Columbia,1979,Population_0_14,392569.0
+British Columbia,1980,Population_0_14,398164.0
+British Columbia,1981,Population_0_14,406140.0
+British Columbia,1982,Population_0_14,411160.0
+British Columbia,1983,Population_0_14,413407.0
+British Columbia,1984,Population_0_14,413581.0
+British Columbia,1985,Population_0_14,410703.0
+British Columbia,1986,Population_0_14,405582.0
+British Columbia,1987,Population_0_14,407947.0
+British Columbia,1988,Population_0_14,413654.0
+British Columbia,1989,Population_0_14,423125.0
+British Columbia,1990,Population_0_14,434230.0
+British Columbia,1991,Population_0_14,444184.0
+British Columbia,1992,Population_0_14,459306.0
+British Columbia,1993,Population_0_14,473453.0
+British Columbia,1994,Population_0_14,485248.0
+British Columbia,1995,Population_0_14,493739.0
+British Columbia,1996,Population_0_14,499537.0
+British Columbia,1997,Population_0_14,501766.0
+British Columbia,1998,Population_0_14,497057.0
+British Columbia,1999,Population_0_14,490423.0
+British Columbia,2000,Population_0_14,483351.0
+British Columbia,2001,Population_0_14,476998.0
+British Columbia,2002,Population_0_14,472372.0
+British Columbia,2003,Population_0_14,470176.0
+British Columbia,2004,Population_0_14,467435.0
+British Columbia,2005,Population_0_14,465632.0
+British Columbia,2006,Population_0_14,465216.0
+British Columbia,2007,Population_0_14,466422.0
+British Columbia,2008,Population_0_14,467456.0
+British Columbia,2009,Population_0_14,468150.0
+British Columbia,2010,Population_0_14,467266.0
+British Columbia,2011,Population_0_14,463169.0
+British Columbia,2012,Population_0_14,459565.0
+British Columbia,2013,Population_0_14,457716.0
+British Columbia,2014,Population_0_14,457978.0
+British Columbia,2015,Population_0_14,460014.0
+British Columbia,2016,Population_0_14,466179.0
+British Columbia,2017,Population_0_14,470694.0
+British Columbia,2018,Population_0_14,475369.0
+British Columbia,2019,Population_0_14,480619.0
+British Columbia,2020,Population_0_14,484863.0
+British Columbia,2021,Population_0_14,485173.0
+British Columbia,2022,Population_0_14,487520.0
+British Columbia,2023,Population_0_14,488733.0
+Manitoba,1976,Population_0_14,180697.0
+Manitoba,1977,Population_0_14,176897.0
+Manitoba,1978,Population_0_14,172410.0
+Manitoba,1979,Population_0_14,166790.0
+Manitoba,1980,Population_0_14,161959.0
+Manitoba,1981,Population_0_14,159613.0
+Manitoba,1982,Population_0_14,160268.0
+Manitoba,1983,Population_0_14,161567.0
+Manitoba,1984,Population_0_14,162194.0
+Manitoba,1985,Population_0_14,162212.0
+Manitoba,1986,Population_0_14,161173.0
+Manitoba,1987,Population_0_14,161992.0
+Manitoba,1988,Population_0_14,162007.0
+Manitoba,1989,Population_0_14,161807.0
+Manitoba,1990,Population_0_14,161491.0
+Manitoba,1991,Population_0_14,161293.0
+Manitoba,1992,Population_0_14,162152.0
+Manitoba,1993,Population_0_14,163022.0
+Manitoba,1994,Population_0_14,163837.0
+Manitoba,1995,Population_0_14,163895.0
+Manitoba,1996,Population_0_14,163205.0
+Manitoba,1997,Population_0_14,161537.0
+Manitoba,1998,Population_0_14,159767.0
+Manitoba,1999,Population_0_14,158435.0
+Manitoba,2000,Population_0_14,157691.0
+Manitoba,2001,Population_0_14,156501.0
+Manitoba,2002,Population_0_14,155974.0
+Manitoba,2003,Population_0_14,155948.0
+Manitoba,2004,Population_0_14,156378.0
+Manitoba,2005,Population_0_14,155062.0
+Manitoba,2006,Population_0_14,154057.0
+Manitoba,2007,Population_0_14,153984.0
+Manitoba,2008,Population_0_14,154941.0
+Manitoba,2009,Population_0_14,155878.0
+Manitoba,2010,Population_0_14,157297.0
+Manitoba,2011,Population_0_14,157999.0
+Manitoba,2012,Population_0_14,159339.0
+Manitoba,2013,Population_0_14,160383.0
+Manitoba,2014,Population_0_14,161792.0
+Manitoba,2015,Population_0_14,162613.0
+Manitoba,2016,Population_0_14,164988.0
+Manitoba,2017,Population_0_14,166817.0
+Manitoba,2018,Population_0_14,168763.0
+Manitoba,2019,Population_0_14,170341.0
+Manitoba,2020,Population_0_14,171730.0
+Manitoba,2021,Population_0_14,171278.0
+Manitoba,2022,Population_0_14,171819.0
+Manitoba,2023,Population_0_14,173661.0
+New Brunswick,1976,Population_0_14,132931.0
+New Brunswick,1977,Population_0_14,130460.0
+New Brunswick,1978,Population_0_14,126511.0
+New Brunswick,1979,Population_0_14,122368.0
+New Brunswick,1980,Population_0_14,118695.0
+New Brunswick,1981,Population_0_14,115755.0
+New Brunswick,1982,Population_0_14,114056.0
+New Brunswick,1983,Population_0_14,113759.0
+New Brunswick,1984,Population_0_14,112836.0
+New Brunswick,1985,Population_0_14,111285.0
+New Brunswick,1986,Population_0_14,109081.0
+New Brunswick,1987,Population_0_14,107713.0
+New Brunswick,1988,Population_0_14,105669.0
+New Brunswick,1989,Population_0_14,104488.0
+New Brunswick,1990,Population_0_14,103677.0
+New Brunswick,1991,Population_0_14,102514.0
+New Brunswick,1992,Population_0_14,101436.0
+New Brunswick,1993,Population_0_14,100803.0
+New Brunswick,1994,Population_0_14,100012.0
+New Brunswick,1995,Population_0_14,98338.0
+New Brunswick,1996,Population_0_14,96533.0
+New Brunswick,1997,Population_0_14,94438.0
+New Brunswick,1998,Population_0_14,92179.0
+New Brunswick,1999,Population_0_14,90273.0
+New Brunswick,2000,Population_0_14,88749.0
+New Brunswick,2001,Population_0_14,87104.0
+New Brunswick,2002,Population_0_14,85902.0
+New Brunswick,2003,Population_0_14,84872.0
+New Brunswick,2004,Population_0_14,83913.0
+New Brunswick,2005,Population_0_14,81995.0
+New Brunswick,2006,Population_0_14,79946.0
+New Brunswick,2007,Population_0_14,78928.0
+New Brunswick,2008,Population_0_14,78218.0
+New Brunswick,2009,Population_0_14,77592.0
+New Brunswick,2010,Population_0_14,77305.0
+New Brunswick,2011,Population_0_14,76369.0
+New Brunswick,2012,Population_0_14,75952.0
+New Brunswick,2013,Population_0_14,74784.0
+New Brunswick,2014,Population_0_14,73940.0
+New Brunswick,2015,Population_0_14,72649.0
+New Brunswick,2016,Population_0_14,72727.0
+New Brunswick,2017,Population_0_14,72617.0
+New Brunswick,2018,Population_0_14,72932.0
+New Brunswick,2019,Population_0_14,73320.0
+New Brunswick,2020,Population_0_14,73547.0
+New Brunswick,2021,Population_0_14,73542.0
+New Brunswick,2022,Population_0_14,75060.0
+New Brunswick,2023,Population_0_14,76865.0
+Newfoundland and Labrador,1976,Population_0_14,125250.0
+Newfoundland and Labrador,1977,Population_0_14,123273.0
+Newfoundland and Labrador,1978,Population_0_14,121020.0
+Newfoundland and Labrador,1979,Population_0_14,117955.0
+Newfoundland and Labrador,1980,Population_0_14,114545.0
+Newfoundland and Labrador,1981,Population_0_14,111152.0
+Newfoundland and Labrador,1982,Population_0_14,109112.0
+Newfoundland and Labrador,1983,Population_0_14,107828.0
+Newfoundland and Labrador,1984,Population_0_14,105350.0
+Newfoundland and Labrador,1985,Population_0_14,102232.0
+Newfoundland and Labrador,1986,Population_0_14,99145.0
+Newfoundland and Labrador,1987,Population_0_14,96082.0
+Newfoundland and Labrador,1988,Population_0_14,93003.0
+Newfoundland and Labrador,1989,Population_0_14,90149.0
+Newfoundland and Labrador,1990,Population_0_14,87814.0
+Newfoundland and Labrador,1991,Population_0_14,85320.0
+Newfoundland and Labrador,1992,Population_0_14,83915.0
+Newfoundland and Labrador,1993,Population_0_14,82475.0
+Newfoundland and Labrador,1994,Population_0_14,80087.0
+Newfoundland and Labrador,1995,Population_0_14,76616.0
+Newfoundland and Labrador,1996,Population_0_14,73225.0
+Newfoundland and Labrador,1997,Population_0_14,69965.0
+Newfoundland and Labrador,1998,Population_0_14,66693.0
+Newfoundland and Labrador,1999,Population_0_14,64016.0
+Newfoundland and Labrador,2000,Population_0_14,62337.0
+Newfoundland and Labrador,2001,Population_0_14,60318.0
+Newfoundland and Labrador,2002,Population_0_14,58883.0
+Newfoundland and Labrador,2003,Population_0_14,57600.0
+Newfoundland and Labrador,2004,Population_0_14,56247.0
+Newfoundland and Labrador,2005,Population_0_14,53987.0
+Newfoundland and Labrador,2006,Population_0_14,52330.0
+Newfoundland and Labrador,2007,Population_0_14,51710.0
+Newfoundland and Labrador,2008,Population_0_14,51720.0
+Newfoundland and Labrador,2009,Population_0_14,52073.0
+Newfoundland and Labrador,2010,Population_0_14,52349.0
+Newfoundland and Labrador,2011,Population_0_14,51939.0
+Newfoundland and Labrador,2012,Population_0_14,51337.0
+Newfoundland and Labrador,2013,Population_0_14,50616.0
+Newfoundland and Labrador,2014,Population_0_14,50149.0
+Newfoundland and Labrador,2015,Population_0_14,49218.0
+Newfoundland and Labrador,2016,Population_0_14,48921.0
+Newfoundland and Labrador,2017,Population_0_14,48559.0
+Newfoundland and Labrador,2018,Population_0_14,47898.0
+Newfoundland and Labrador,2019,Population_0_14,47051.0
+Newfoundland and Labrador,2020,Population_0_14,46519.0
+Newfoundland and Labrador,2021,Population_0_14,45663.0
+Newfoundland and Labrador,2022,Population_0_14,45292.0
+Newfoundland and Labrador,2023,Population_0_14,44877.0
+Nova Scotia,1976,Population_0_14,152302.0
+Nova Scotia,1977,Population_0_14,148419.0
+Nova Scotia,1978,Population_0_14,143715.0
+Nova Scotia,1979,Population_0_14,139335.0
+Nova Scotia,1980,Population_0_14,135346.0
+Nova Scotia,1981,Population_0_14,132875.0
+Nova Scotia,1982,Population_0_14,132114.0
+Nova Scotia,1983,Population_0_14,132050.0
+Nova Scotia,1984,Population_0_14,131235.0
+Nova Scotia,1985,Population_0_14,129928.0
+Nova Scotia,1986,Population_0_14,127407.0
+Nova Scotia,1987,Population_0_14,126375.0
+Nova Scotia,1988,Population_0_14,124836.0
+Nova Scotia,1989,Population_0_14,124403.0
+Nova Scotia,1990,Population_0_14,124490.0
+Nova Scotia,1991,Population_0_14,123619.0
+Nova Scotia,1992,Population_0_14,123306.0
+Nova Scotia,1993,Population_0_14,123291.0
+Nova Scotia,1994,Population_0_14,122550.0
+Nova Scotia,1995,Population_0_14,120690.0
+Nova Scotia,1996,Population_0_14,119522.0
+Nova Scotia,1997,Population_0_14,117836.0
+Nova Scotia,1998,Population_0_14,115490.0
+Nova Scotia,1999,Population_0_14,113580.0
+Nova Scotia,2000,Population_0_14,112475.0
+Nova Scotia,2001,Population_0_14,110400.0
+Nova Scotia,2002,Population_0_14,108489.0
+Nova Scotia,2003,Population_0_14,107055.0
+Nova Scotia,2004,Population_0_14,105324.0
+Nova Scotia,2005,Population_0_14,102094.0
+Nova Scotia,2006,Population_0_14,99643.0
+Nova Scotia,2007,Population_0_14,97990.0
+Nova Scotia,2008,Population_0_14,97092.0
+Nova Scotia,2009,Population_0_14,96047.0
+Nova Scotia,2010,Population_0_14,95604.0
+Nova Scotia,2011,Population_0_14,93902.0
+Nova Scotia,2012,Population_0_14,92823.0
+Nova Scotia,2013,Population_0_14,90937.0
+Nova Scotia,2014,Population_0_14,89774.0
+Nova Scotia,2015,Population_0_14,88236.0
+Nova Scotia,2016,Population_0_14,88409.0
+Nova Scotia,2017,Population_0_14,88441.0
+Nova Scotia,2018,Population_0_14,89304.0
+Nova Scotia,2019,Population_0_14,90221.0
+Nova Scotia,2020,Population_0_14,91263.0
+Nova Scotia,2021,Population_0_14,91124.0
+Nova Scotia,2022,Population_0_14,92880.0
+Nova Scotia,2023,Population_0_14,93976.0
+Ontario,1976,Population_0_14,1417598.0
+Ontario,1977,Population_0_14,1392178.0
+Ontario,1978,Population_0_14,1357906.0
+Ontario,1979,Population_0_14,1322547.0
+Ontario,1980,Population_0_14,1295207.0
+Ontario,1981,Population_0_14,1281693.0
+Ontario,1982,Population_0_14,1281917.0
+Ontario,1983,Population_0_14,1288035.0
+Ontario,1984,Population_0_14,1290637.0
+Ontario,1985,Population_0_14,1292248.0
+Ontario,1986,Population_0_14,1287986.0
+Ontario,1987,Population_0_14,1306289.0
+Ontario,1988,Population_0_14,1325293.0
+Ontario,1989,Population_0_14,1352831.0
+Ontario,1990,Population_0_14,1377539.0
+Ontario,1991,Population_0_14,1402750.0
+Ontario,1992,Population_0_14,1431964.0
+Ontario,1993,Population_0_14,1455154.0
+Ontario,1994,Population_0_14,1471878.0
+Ontario,1995,Population_0_14,1482537.0
+Ontario,1996,Population_0_14,1494576.0
+Ontario,1997,Population_0_14,1495651.0
+Ontario,1998,Population_0_14,1494215.0
+Ontario,1999,Population_0_14,1492672.0
+Ontario,2000,Population_0_14,1498117.0
+Ontario,2001,Population_0_14,1506079.0
+Ontario,2002,Population_0_14,1514157.0
+Ontario,2003,Population_0_14,1518224.0
+Ontario,2004,Population_0_14,1522449.0
+Ontario,2005,Population_0_14,1522267.0
+Ontario,2006,Population_0_14,1519227.0
+Ontario,2007,Population_0_14,1515346.0
+Ontario,2008,Population_0_14,1514782.0
+Ontario,2009,Population_0_14,1508555.0
+Ontario,2010,Population_0_14,1501293.0
+Ontario,2011,Population_0_14,1487196.0
+Ontario,2012,Population_0_14,1480210.0
+Ontario,2013,Population_0_14,1473336.0
+Ontario,2014,Population_0_14,1472159.0
+Ontario,2015,Population_0_14,1469118.0
+Ontario,2016,Population_0_14,1480385.0
+Ontario,2017,Population_0_14,1491545.0
+Ontario,2018,Population_0_14,1510954.0
+Ontario,2019,Population_0_14,1524605.0
+Ontario,2020,Population_0_14,1534244.0
+Ontario,2021,Population_0_14,1527395.0
+Ontario,2022,Population_0_14,1529564.0
+Ontario,2023,Population_0_14,1536141.0
+Prince Edward Island,1976,Population_0_14,22714.0
+Prince Edward Island,1977,Population_0_14,22407.0
+Prince Edward Island,1978,Population_0_14,21991.0
+Prince Edward Island,1979,Population_0_14,21467.0
+Prince Edward Island,1980,Population_0_14,20931.0
+Prince Edward Island,1981,Population_0_14,20532.0
+Prince Edward Island,1982,Population_0_14,20462.0
+Prince Edward Island,1983,Population_0_14,20302.0
+Prince Edward Island,1984,Population_0_14,20007.0
+Prince Edward Island,1985,Population_0_14,19871.0
+Prince Edward Island,1986,Population_0_14,19706.0
+Prince Edward Island,1987,Population_0_14,19600.0
+Prince Edward Island,1988,Population_0_14,19603.0
+Prince Edward Island,1989,Population_0_14,19856.0
+Prince Edward Island,1990,Population_0_14,19765.0
+Prince Edward Island,1991,Population_0_14,19428.0
+Prince Edward Island,1992,Population_0_14,19287.0
+Prince Edward Island,1993,Population_0_14,19464.0
+Prince Edward Island,1994,Population_0_14,19344.0
+Prince Edward Island,1995,Population_0_14,19214.0
+Prince Edward Island,1996,Population_0_14,19268.0
+Prince Edward Island,1997,Population_0_14,18913.0
+Prince Edward Island,1998,Population_0_14,18432.0
+Prince Edward Island,1999,Population_0_14,18293.0
+Prince Edward Island,2000,Population_0_14,18087.0
+Prince Edward Island,2001,Population_0_14,17591.0
+Prince Edward Island,2002,Population_0_14,17268.0
+Prince Edward Island,2003,Population_0_14,17102.0
+Prince Edward Island,2004,Population_0_14,16742.0
+Prince Edward Island,2005,Population_0_14,16339.0
+Prince Edward Island,2006,Population_0_14,16066.0
+Prince Edward Island,2007,Population_0_14,15802.0
+Prince Edward Island,2008,Population_0_14,15763.0
+Prince Edward Island,2009,Population_0_14,15853.0
+Prince Edward Island,2010,Population_0_14,15819.0
+Prince Edward Island,2011,Population_0_14,15756.0
+Prince Edward Island,2012,Population_0_14,15393.0
+Prince Edward Island,2013,Population_0_14,15172.0
+Prince Edward Island,2014,Population_0_14,15101.0
+Prince Edward Island,2015,Population_0_14,14969.0
+Prince Edward Island,2016,Population_0_14,15095.0
+Prince Edward Island,2017,Population_0_14,15460.0
+Prince Edward Island,2018,Population_0_14,15726.0
+Prince Edward Island,2019,Population_0_14,15888.0
+Prince Edward Island,2020,Population_0_14,15915.0
+Prince Edward Island,2021,Population_0_14,15995.0
+Prince Edward Island,2022,Population_0_14,16237.0
+Prince Edward Island,2023,Population_0_14,16337.0
+Quebec,1976,Population_0_14,1082242.0
+Quebec,1977,Population_0_14,1062124.0
+Quebec,1978,Population_0_14,1031532.0
+Quebec,1979,Population_0_14,1003649.0
+Quebec,1980,Population_0_14,977893.0
+Quebec,1981,Population_0_14,961431.0
+Quebec,1982,Population_0_14,943783.0
+Quebec,1983,Population_0_14,925792.0
+Quebec,1984,Population_0_14,909293.0
+Quebec,1985,Population_0_14,893857.0
+Quebec,1986,Population_0_14,881593.0
+Quebec,1987,Population_0_14,885544.0
+Quebec,1988,Population_0_14,893137.0
+Quebec,1989,Population_0_14,907570.0
+Quebec,1990,Population_0_14,925447.0
+Quebec,1991,Population_0_14,946203.0
+Quebec,1992,Population_0_14,959909.0
+Quebec,1993,Population_0_14,965989.0
+Quebec,1994,Population_0_14,961300.0
+Quebec,1995,Population_0_14,941723.0
+Quebec,1996,Population_0_14,919717.0
+Quebec,1997,Population_0_14,894809.0
+Quebec,1998,Population_0_14,873243.0
+Quebec,1999,Population_0_14,855665.0
+Quebec,2000,Population_0_14,848015.0
+Quebec,2001,Population_0_14,844896.0
+Quebec,2002,Population_0_14,850043.0
+Quebec,2003,Population_0_14,857595.0
+Quebec,2004,Population_0_14,863106.0
+Quebec,2005,Population_0_14,859176.0
+Quebec,2006,Population_0_14,853439.0
+Quebec,2007,Population_0_14,849467.0
+Quebec,2008,Population_0_14,848048.0
+Quebec,2009,Population_0_14,848016.0
+Quebec,2010,Population_0_14,847545.0
+Quebec,2011,Population_0_14,843200.0
+Quebec,2012,Population_0_14,842117.0
+Quebec,2013,Population_0_14,841503.0
+Quebec,2014,Population_0_14,841086.0
+Quebec,2015,Population_0_14,839134.0
+Quebec,2016,Population_0_14,845358.0
+Quebec,2017,Population_0_14,854724.0
+Quebec,2018,Population_0_14,870495.0
+Quebec,2019,Population_0_14,884562.0
+Quebec,2020,Population_0_14,896999.0
+Quebec,2021,Population_0_14,896161.0
+Quebec,2022,Population_0_14,904101.0
+Quebec,2023,Population_0_14,912327.0
+Saskatchewan,1976,Population_0_14,170936.0
+Saskatchewan,1977,Population_0_14,170135.0
+Saskatchewan,1978,Population_0_14,167011.0
+Saskatchewan,1979,Population_0_14,164572.0
+Saskatchewan,1980,Population_0_14,162491.0
+Saskatchewan,1981,Population_0_14,161752.0
+Saskatchewan,1982,Population_0_14,162844.0
+Saskatchewan,1983,Population_0_14,164913.0
+Saskatchewan,1984,Population_0_14,165542.0
+Saskatchewan,1985,Population_0_14,165923.0
+Saskatchewan,1986,Population_0_14,165088.0
+Saskatchewan,1987,Population_0_14,165769.0
+Saskatchewan,1988,Population_0_14,163701.0
+Saskatchewan,1989,Population_0_14,161831.0
+Saskatchewan,1990,Population_0_14,159414.0
+Saskatchewan,1991,Population_0_14,157376.0
+Saskatchewan,1992,Population_0_14,157166.0
+Saskatchewan,1993,Population_0_14,157495.0
+Saskatchewan,1994,Population_0_14,156419.0
+Saskatchewan,1995,Population_0_14,154507.0
+Saskatchewan,1996,Population_0_14,153298.0
+Saskatchewan,1997,Population_0_14,151043.0
+Saskatchewan,1998,Population_0_14,148484.0
+Saskatchewan,1999,Population_0_14,145819.0
+Saskatchewan,2000,Population_0_14,143050.0
+Saskatchewan,2001,Population_0_14,139924.0
+Saskatchewan,2002,Population_0_14,137868.0
+Saskatchewan,2003,Population_0_14,136248.0
+Saskatchewan,2004,Population_0_14,134220.0
+Saskatchewan,2005,Population_0_14,130865.0
+Saskatchewan,2006,Population_0_14,128635.0
+Saskatchewan,2007,Population_0_14,129350.0
+Saskatchewan,2008,Population_0_14,131302.0
+Saskatchewan,2009,Population_0_14,132918.0
+Saskatchewan,2010,Population_0_14,135106.0
+Saskatchewan,2011,Population_0_14,136463.0
+Saskatchewan,2012,Population_0_14,138363.0
+Saskatchewan,2013,Population_0_14,139756.0
+Saskatchewan,2014,Population_0_14,141595.0
+Saskatchewan,2015,Population_0_14,142328.0
+Saskatchewan,2016,Population_0_14,144881.0
+Saskatchewan,2017,Population_0_14,146897.0
+Saskatchewan,2018,Population_0_14,149019.0
+Saskatchewan,2019,Population_0_14,149655.0
+Saskatchewan,2020,Population_0_14,150025.0
+Saskatchewan,2021,Population_0_14,149227.0
+Saskatchewan,2022,Population_0_14,149159.0
+Saskatchewan,2023,Population_0_14,150745.0
+Alberta,1976,labour_force,1029121.7612524214
+Alberta,1977,labour_force,1085134.7402272564
+Alberta,1978,labour_force,1149942.5633187774
+Alberta,1979,labour_force,1221030.4924758084
+Alberta,1980,labour_force,1296110.1245587312
+Alberta,1981,labour_force,1387870.0485563788
+Alberta,1982,labour_force,1428503.4596101467
+Alberta,1983,labour_force,1439771.3547041006
+Alberta,1984,labour_force,1449172.3114502958
+Alberta,1985,labour_force,1466410.4909437736
+Alberta,1986,labour_force,1488021.1601734788
+Alberta,1987,labour_force,1488389.0292508013
+Alberta,1988,labour_force,1508523.4327466444
+Alberta,1989,labour_force,1534024.3821247893
+Alberta,1990,labour_force,1561077.7759805976
+Alberta,1991,labour_force,1590607.9928587792
+Alberta,1992,labour_force,1607029.2559337108
+Alberta,1993,labour_force,1618590.9377571086
+Alberta,1994,labour_force,1647647.8875139493
+Alberta,1995,labour_force,1679194.8028926917
+Alberta,1996,labour_force,1708226.594843249
+Alberta,1997,labour_force,1743950.840615394
+Alberta,1998,labour_force,1804276.9441699511
+Alberta,1999,labour_force,1842288.0653543072
+Alberta,2000,labour_force,1869594.3924703605
+Alberta,2001,labour_force,1912763.4899553016
+Alberta,2002,labour_force,1974389.5853585587
+Alberta,2003,labour_force,2029160.3098964903
+Alberta,2004,labour_force,2068362.4328128395
+Alberta,2005,labour_force,2103219.436719984
+Alberta,2006,labour_force,2198928.130140751
+Alberta,2007,labour_force,2287895.702077248
+Alberta,2008,labour_force,2349280.754035063
+Alberta,2009,labour_force,2398640.47388345
+Alberta,2010,labour_force,2388430.3705632933
+Alberta,2011,labour_force,2448583.774139866
+Alberta,2012,labour_force,2505777.183186167
+Alberta,2013,labour_force,2557358.962379294
+Alberta,2014,labour_force,2608500.150957093
+Alberta,2015,labour_force,2672907.890586824
+Alberta,2016,labour_force,2662887.6723515354
+Alberta,2017,labour_force,2675330.764097539
+Alberta,2018,labour_force,2700040.450171771
+Alberta,2019,labour_force,2734089.9089176552
+Alberta,2020,labour_force,2665044.505335795
+Alberta,2021,labour_force,2710724.959378425
+Alberta,2022,labour_force,2767611.0064287195
+Alberta,2023,labour_force,2904701.3066550675
+British Columbia,1976,labour_force,1313436.078085844
+British Columbia,1977,labour_force,1342216.530083177
+British Columbia,1978,labour_force,1397432.2767357256
+British Columbia,1979,labour_force,1443677.9360354214
+British Columbia,1980,labour_force,1518227.0018906444
+British Columbia,1981,labour_force,1582665.5063004843
+British Columbia,1982,labour_force,1593843.6924246426
+British Columbia,1983,labour_force,1609761.7870440283
+British Columbia,1984,labour_force,1630249.986272536
+British Columbia,1985,labour_force,1659791.9257773974
+British Columbia,1986,labour_force,1698607.259032576
+British Columbia,1987,labour_force,1744881.116179685
+British Columbia,1988,labour_force,1785505.4240078544
+British Columbia,1989,labour_force,1855566.951490278
+British Columbia,1990,labour_force,1910617.2938141967
+British Columbia,1991,labour_force,1959883.7006188864
+British Columbia,1992,labour_force,2014092.35299948
+British Columbia,1993,labour_force,2063254.724953679
+British Columbia,1994,labour_force,2141138.4475258263
+British Columbia,1995,labour_force,2175669.004862145
+British Columbia,1996,labour_force,2214492.0164235085
+British Columbia,1997,labour_force,2261379.453418907
+British Columbia,1998,labour_force,2263674.6506363195
+British Columbia,1999,labour_force,2290502.0897990484
+British Columbia,2000,labour_force,2304610.5944834067
+British Columbia,2001,labour_force,2304688.405152603
+British Columbia,2002,labour_force,2357367.477851787
+British Columbia,2003,labour_force,2395878.98891686
+British Columbia,2004,labour_force,2405977.623061538
+British Columbia,2005,labour_force,2439817.1930650035
+British Columbia,2006,labour_force,2484114.011046046
+British Columbia,2007,labour_force,2532508.6147438134
+British Columbia,2008,labour_force,2579264.136941972
+British Columbia,2009,labour_force,2610660.9943844355
+British Columbia,2010,labour_force,2630170.301645787
+British Columbia,2011,labour_force,2637004.067024364
+British Columbia,2012,labour_force,2692671.621472614
+British Columbia,2013,labour_force,2713382.724241659
+British Columbia,2014,labour_force,2735581.3424013797
+British Columbia,2015,labour_force,2768619.5307047907
+British Columbia,2016,labour_force,2868425.19935897
+British Columbia,2017,labour_force,2950853.8569369726
+British Columbia,2018,labour_force,2985826.965139672
+British Columbia,2019,labour_force,3070907.8458896037
+British Columbia,2020,labour_force,3013744.9050197685
+British Columbia,2021,labour_force,3108284.5746339858
+British Columbia,2022,labour_force,3169401.0252094194
+British Columbia,2023,labour_force,3279213.912282277
+Manitoba,1976,labour_force,525954.832563132
+Manitoba,1977,labour_force,534669.1077952493
+Manitoba,1978,labour_force,547046.6728766579
+Manitoba,1979,labour_force,552871.2435275348
+Manitoba,1980,labour_force,560960.0653143527
+Manitoba,1981,labour_force,570629.3644845568
+Manitoba,1982,labour_force,575813.249857418
+Manitoba,1983,labour_force,590931.2384664334
+Manitoba,1984,labour_force,599140.9036231657
+Manitoba,1985,labour_force,606736.5588287048
+Manitoba,1986,labour_force,620049.2572020045
+Manitoba,1987,labour_force,624908.7407641237
+Manitoba,1988,labour_force,627818.8222941374
+Manitoba,1989,labour_force,634377.9997163148
+Manitoba,1990,labour_force,635318.229245655
+Manitoba,1991,labour_force,635636.4940722609
+Manitoba,1992,labour_force,632222.3456498346
+Manitoba,1993,labour_force,638289.5686077878
+Manitoba,1994,labour_force,640237.9595605143
+Manitoba,1995,labour_force,642349.3087644837
+Manitoba,1996,labour_force,645092.5792883149
+Manitoba,1997,labour_force,649213.3847827162
+Manitoba,1998,labour_force,654953.6428360181
+Manitoba,1999,labour_force,664244.4569955702
+Manitoba,2000,labour_force,671660.6698148112
+Manitoba,2001,labour_force,673944.270579521
+Manitoba,2002,labour_force,689632.9796767638
+Manitoba,2003,labour_force,691638.2167051985
+Manitoba,2004,labour_force,700078.7776712939
+Manitoba,2005,labour_force,699438.8650933361
+Manitoba,2006,labour_force,705058.9326208004
+Manitoba,2007,labour_force,715885.2713622334
+Manitoba,2008,labour_force,723549.7549288011
+Manitoba,2009,labour_force,728455.5831190426
+Manitoba,2010,labour_force,739332.9161018699
+Manitoba,2011,labour_force,746140.8329607552
+Manitoba,2012,labour_force,752041.8320607344
+Manitoba,2013,labour_force,759873.4096872808
+Manitoba,2014,labour_force,762374.0671327233
+Manitoba,2015,labour_force,777998.7551409794
+Manitoba,2016,labour_force,781718.105384442
+Manitoba,2017,labour_force,788253.5195207535
+Manitoba,2018,labour_force,800879.5998832344
+Manitoba,2019,labour_force,805917.064372181
+Manitoba,2020,labour_force,794789.1181630916
+Manitoba,2021,labour_force,814047.7436880894
+Manitoba,2022,labour_force,827677.8962359484
+Manitoba,2023,labour_force,850792.1826143669
+New Brunswick,1976,labour_force,299931.3377717063
+New Brunswick,1977,labour_force,303335.2703363499
+New Brunswick,1978,labour_force,314027.2508524436
+New Brunswick,1979,labour_force,321815.6644392508
+New Brunswick,1980,labour_force,327033.1099452629
+New Brunswick,1981,labour_force,333036.8717221372
+New Brunswick,1982,labour_force,328913.80537512567
+New Brunswick,1983,labour_force,334641.4463811394
+New Brunswick,1984,labour_force,338149.7547058641
+New Brunswick,1985,labour_force,348325.28344281414
+New Brunswick,1986,labour_force,355838.39532794256
+New Brunswick,1987,labour_force,362621.7434732058
+New Brunswick,1988,labour_force,369778.40047889855
+New Brunswick,1989,labour_force,378431.3072285588
+New Brunswick,1990,labour_force,382047.70103817375
+New Brunswick,1991,labour_force,378079.70884371473
+New Brunswick,1992,labour_force,380411.6912261533
+New Brunswick,1993,labour_force,382201.0139707988
+New Brunswick,1994,labour_force,379598.068792042
+New Brunswick,1995,labour_force,385757.7857173269
+New Brunswick,1996,labour_force,385111.2655572352
+New Brunswick,1997,labour_force,393605.6274098969
+New Brunswick,1998,labour_force,398978.4847851108
+New Brunswick,1999,labour_force,401729.5524409009
+New Brunswick,2000,labour_force,407815.5440766744
+New Brunswick,2001,labour_force,410964.97109906905
+New Brunswick,2002,labour_force,419923.1119210621
+New Brunswick,2003,labour_force,418627.30878656456
+New Brunswick,2004,labour_force,424552.4906024096
+New Brunswick,2005,labour_force,421610.81632148207
+New Brunswick,2006,labour_force,422676.0520133536
+New Brunswick,2007,labour_force,425467.638098633
+New Brunswick,2008,labour_force,433913.6734652087
+New Brunswick,2009,labour_force,435199.6944708341
+New Brunswick,2010,labour_force,434605.623869923
+New Brunswick,2011,labour_force,432123.82729468594
+New Brunswick,2012,labour_force,434264.1603709296
+New Brunswick,2013,labour_force,436648.39238041895
+New Brunswick,2014,labour_force,434104.30789809936
+New Brunswick,2015,labour_force,431809.60614881566
+New Brunswick,2016,labour_force,434419.2021797212
+New Brunswick,2017,labour_force,430752.20342998544
+New Brunswick,2018,labour_force,431066.6756074265
+New Brunswick,2019,labour_force,433751.6498573653
+New Brunswick,2020,labour_force,431503.566616429
+New Brunswick,2021,labour_force,441344.8446043718
+New Brunswick,2022,labour_force,445156.3746784617
+New Brunswick,2023,labour_force,458594.1791487468
+Newfoundland and Labrador,1976,labour_force,216904.8237859712
+Newfoundland and Labrador,1977,labour_force,223798.63289036544
+Newfoundland and Labrador,1978,labour_force,231152.9551027532
+Newfoundland and Labrador,1979,labour_force,241281.91628066564
+Newfoundland and Labrador,1980,labour_force,243555.27613952316
+Newfoundland and Labrador,1981,labour_force,248559.99232635795
+Newfoundland and Labrador,1982,labour_force,247407.33088009185
+Newfoundland and Labrador,1983,labour_force,251348.8255195747
+Newfoundland and Labrador,1984,labour_force,254515.133383767
+Newfoundland and Labrador,1985,labour_force,258679.77257016447
+Newfoundland and Labrador,1986,labour_force,259102.29397552487
+Newfoundland and Labrador,1987,labour_force,258921.7754019042
+Newfoundland and Labrador,1988,labour_force,266099.75770643976
+Newfoundland and Labrador,1989,labour_force,272653.1203367132
+Newfoundland and Labrador,1990,labour_force,277413.0057788136
+Newfoundland and Labrador,1991,labour_force,277877.67360408
+Newfoundland and Labrador,1992,labour_force,269946.3730327045
+Newfoundland and Labrador,1993,labour_force,267983.42307265254
+Newfoundland and Labrador,1994,labour_force,266312.0441261064
+Newfoundland and Labrador,1995,labour_force,260599.2171828358
+Newfoundland and Labrador,1996,labour_force,255848.9659886942
+Newfoundland and Labrador,1997,labour_force,253104.0340185073
+Newfoundland and Labrador,1998,labour_force,256127.21591890804
+Newfoundland and Labrador,1999,labour_force,263645.0266901164
+Newfoundland and Labrador,2000,labour_force,258716.9206909938
+Newfoundland and Labrador,2001,labour_force,262506.71234348445
+Newfoundland and Labrador,2002,labour_force,268329.7863500323
+Newfoundland and Labrador,2003,labour_force,272217.3328842023
+Newfoundland and Labrador,2004,labour_force,272445.49249307805
+Newfoundland and Labrador,2005,labour_force,270129.61085840344
+Newfoundland and Labrador,2006,labour_force,271185.00967413443
+Newfoundland and Labrador,2007,labour_force,271105.1088843178
+Newfoundland and Labrador,2008,labour_force,274386.8694712241
+Newfoundland and Labrador,2009,labour_force,275483.5340374682
+Newfoundland and Labrador,2010,labour_force,283178.92299923784
+Newfoundland and Labrador,2011,labour_force,287746.5533717961
+Newfoundland and Labrador,2012,labour_force,294654.85733107466
+Newfoundland and Labrador,2013,labour_force,294021.53693879466
+Newfoundland and Labrador,2014,labour_force,293149.8819252337
+Newfoundland and Labrador,2015,labour_force,295891.6937199149
+Newfoundland and Labrador,2016,labour_force,291852.76242836943
+Newfoundland and Labrador,2017,labour_force,285851.0211067061
+Newfoundland and Labrador,2018,labour_force,283122.4453151237
+Newfoundland and Labrador,2019,labour_force,282312.7635711081
+Newfoundland and Labrador,2020,labour_force,271094.232582063
+Newfoundland and Labrador,2021,labour_force,277153.9268589396
+Newfoundland and Labrador,2022,labour_force,283645.5595488079
+Newfoundland and Labrador,2023,labour_force,291011.4687638458
+Nova Scotia,1976,labour_force,380136.8616463337
+Nova Scotia,1977,labour_force,384117.0962948535
+Nova Scotia,1978,labour_force,393892.7941329535
+Nova Scotia,1979,labour_force,404895.94737693423
+Nova Scotia,1980,labour_force,410817.0867865312
+Nova Scotia,1981,labour_force,416184.2854056903
+Nova Scotia,1982,labour_force,418599.1427901524
+Nova Scotia,1983,labour_force,424836.0246872436
+Nova Scotia,1984,labour_force,442287.9345214788
+Nova Scotia,1985,labour_force,449074.63856848935
+Nova Scotia,1986,labour_force,456032.0175785108
+Nova Scotia,1987,labour_force,459900.5636539616
+Nova Scotia,1988,labour_force,468767.8461613311
+Nova Scotia,1989,labour_force,477734.9240028464
+Nova Scotia,1990,labour_force,486749.0988414496
+Nova Scotia,1991,labour_force,487405.7526002797
+Nova Scotia,1992,labour_force,477362.7543081125
+Nova Scotia,1993,labour_force,480844.8124758797
+Nova Scotia,1994,labour_force,483239.963432506
+Nova Scotia,1995,labour_force,479728.636342598
+Nova Scotia,1996,labour_force,482432.37432416895
+Nova Scotia,1997,labour_force,486446.2296309013
+Nova Scotia,1998,labour_force,494043.4014596875
+Nova Scotia,1999,labour_force,498143.4233425179
+Nova Scotia,2000,labour_force,503033.0997936704
+Nova Scotia,2001,labour_force,509956.6123264903
+Nova Scotia,2002,labour_force,516932.6727436944
+Nova Scotia,2003,labour_force,523388.142563081
+Nova Scotia,2004,labour_force,533211.8870370167
+Nova Scotia,2005,labour_force,530429.0335041949
+Nova Scotia,2006,labour_force,526806.6701569539
+Nova Scotia,2007,labour_force,532345.063301893
+Nova Scotia,2008,labour_force,535927.667621932
+Nova Scotia,2009,labour_force,542582.4320786304
+Nova Scotia,2010,labour_force,545890.6203756402
+Nova Scotia,2011,labour_force,545620.742666795
+Nova Scotia,2012,labour_force,550671.1121559241
+Nova Scotia,2013,labour_force,545766.400147739
+Nova Scotia,2014,labour_force,536955.9057532132
+Nova Scotia,2015,labour_force,532263.028708134
+Nova Scotia,2016,labour_force,529045.1829775438
+Nova Scotia,2017,labour_force,536273.1041812068
+Nova Scotia,2018,labour_force,537874.7088058811
+Nova Scotia,2019,labour_force,551248.7049080326
+Nova Scotia,2020,labour_force,542456.3137475689
+Nova Scotia,2021,labour_force,566511.2285636015
+Nova Scotia,2022,labour_force,575850.4376090923
+Nova Scotia,2023,labour_force,596808.1848068569
+Ontario,1976,labour_force,4494892.757219711
+Ontario,1977,labour_force,4588770.40144032
+Ontario,1978,labour_force,4734245.232002599
+Ontario,1979,labour_force,4888491.244164134
+Ontario,1980,labour_force,4976113.536113142
+Ontario,1981,labour_force,5098438.794945942
+Ontario,1982,labour_force,5161752.115512959
+Ontario,1983,labour_force,5239842.434867609
+Ontario,1984,labour_force,5345142.819931977
+Ontario,1985,labour_force,5471776.485089011
+Ontario,1986,labour_force,5602934.851510662
+Ontario,1987,labour_force,5756598.410700479
+Ontario,1988,labour_force,5928716.509588491
+Ontario,1989,labour_force,6117973.369546948
+Ontario,1990,labour_force,6203172.578509161
+Ontario,1991,labour_force,6187068.598903793
+Ontario,1992,labour_force,6155396.485213208
+Ontario,1993,labour_force,6159829.799440975
+Ontario,1994,labour_force,6162346.814854861
+Ontario,1995,labour_force,6199727.164434022
+Ontario,1996,labour_force,6284788.167824867
+Ontario,1997,labour_force,6395879.045225701
+Ontario,1998,labour_force,6509585.829448578
+Ontario,1999,labour_force,6662778.713093964
+Ontario,2000,labour_force,6828249.723651867
+Ontario,2001,labour_force,6992955.5473648645
+Ontario,2002,labour_force,7165638.992271646
+Ontario,2003,labour_force,7344311.98537873
+Ontario,2004,labour_force,7431775.281273905
+Ontario,2005,labour_force,7480778.395364137
+Ontario,2006,labour_force,7542643.629089715
+Ontario,2007,labour_force,7613527.978161394
+Ontario,2008,labour_force,7687989.529493575
+Ontario,2009,labour_force,7708698.7086987505
+Ontario,2010,labour_force,7791974.839648559
+Ontario,2011,labour_force,7860878.534235639
+Ontario,2012,labour_force,7913301.001134976
+Ontario,2013,labour_force,8000090.32299459
+Ontario,2014,labour_force,8012759.918411554
+Ontario,2015,labour_force,8015437.937873939
+Ontario,2016,labour_force,8080387.977751108
+Ontario,2017,labour_force,8219200.801830857
+Ontario,2018,labour_force,8322545.019956698
+Ontario,2019,labour_force,8516939.02101326
+Ontario,2020,labour_force,8433740.636390485
+Ontario,2021,labour_force,8684432.592915466
+Ontario,2022,labour_force,8909561.179072333
+Ontario,2023,labour_force,9232415.09762278
+Prince Edward Island,1976,labour_force,54838.73118712274
+Prince Edward Island,1977,labour_force,55538.53103448277
+Prince Edward Island,1978,labour_force,57145.55455070233
+Prince Edward Island,1979,labour_force,60083.29179216868
+Prince Edward Island,1980,labour_force,61009.18207958445
+Prince Edward Island,1981,labour_force,60428.07248111991
+Prince Edward Island,1982,labour_force,60501.34175361523
+Prince Edward Island,1983,labour_force,62998.81230879971
+Prince Edward Island,1984,labour_force,64133.63428672629
+Prince Edward Island,1985,labour_force,66238.29276402135
+Prince Edward Island,1986,labour_force,68096.68229573674
+Prince Edward Island,1987,labour_force,68896.7868200294
+Prince Edward Island,1988,labour_force,70301.62606378406
+Prince Edward Island,1989,labour_force,72070.88270972151
+Prince Edward Island,1990,labour_force,72462.34199796127
+Prince Edward Island,1991,labour_force,72128.06832980973
+Prince Edward Island,1992,labour_force,73030.92005023021
+Prince Edward Island,1993,labour_force,73670.08876766675
+Prince Edward Island,1994,labour_force,74699.53802839889
+Prince Edward Island,1995,labour_force,74993.19094138543
+Prince Edward Island,1996,labour_force,76874.55901364615
+Prince Edward Island,1997,labour_force,77074.8443246671
+Prince Edward Island,1998,labour_force,76901.1335175681
+Prince Edward Island,1999,labour_force,78054.31156409251
+Prince Edward Island,2000,labour_force,79174.107674328
+Prince Edward Island,2001,labour_force,79856.70651921739
+Prince Edward Island,2002,labour_force,80712.15448339342
+Prince Edward Island,2003,labour_force,81140.80609059763
+Prince Edward Island,2004,labour_force,82135.18521312713
+Prince Edward Island,2005,labour_force,83110.21324354658
+Prince Edward Island,2006,labour_force,83586.56074140241
+Prince Edward Island,2007,labour_force,82599.94610023724
+Prince Edward Island,2008,labour_force,83950.02610102198
+Prince Edward Island,2009,labour_force,84317.70463151763
+Prince Edward Island,2010,labour_force,85686.27601745226
+Prince Edward Island,2011,labour_force,88093.3544713161
+Prince Edward Island,2012,labour_force,89029.50838691641
+Prince Edward Island,2013,labour_force,90194.89288714647
+Prince Edward Island,2014,labour_force,88448.39169637242
+Prince Edward Island,2015,labour_force,88396.99289000419
+Prince Edward Island,2016,labour_force,88207.784184514
+Prince Edward Island,2017,labour_force,90184.42504030092
+Prince Edward Island,2018,labour_force,91876.86312885852
+Prince Edward Island,2019,labour_force,93615.39406345956
+Prince Edward Island,2020,labour_force,92997.26717845455
+Prince Edward Island,2021,labour_force,96518.88252077904
+Prince Edward Island,2022,labour_force,98776.61066874216
+Prince Edward Island,2023,labour_force,100987.56749116608
+Quebec,1976,labour_force,3127039.1532581667
+Quebec,1977,labour_force,3187149.9149351674
+Quebec,1978,labour_force,3246666.980854725
+Quebec,1979,labour_force,3308310.119739479
+Quebec,1980,labour_force,3392480.329141757
+Quebec,1981,labour_force,3455929.344730023
+Quebec,1982,labour_force,3410182.5168288173
+Quebec,1983,labour_force,3467244.6709934087
+Quebec,1984,labour_force,3529610.008082506
+Quebec,1985,labour_force,3602833.6298573096
+Quebec,1986,labour_force,3663265.8801962906
+Quebec,1987,labour_force,3747607.740862427
+Quebec,1988,labour_force,3791834.190859581
+Quebec,1989,labour_force,3859530.7877008654
+Quebec,1990,labour_force,3900740.75107011
+Quebec,1991,labour_force,3894420.381368989
+Quebec,1992,labour_force,3847963.508101171
+Quebec,1993,labour_force,3857277.985807471
+Quebec,1994,labour_force,3891641.800667925
+Quebec,1995,labour_force,3902059.878604087
+Quebec,1996,labour_force,3917767.903045656
+Quebec,1997,labour_force,3959071.019849537
+Quebec,1998,labour_force,4017958.23075786
+Quebec,1999,labour_force,4063955.116938094
+Quebec,2000,labour_force,4109862.6249225154
+Quebec,2001,labour_force,4164521.314581976
+Quebec,2002,labour_force,4296069.770248905
+Quebec,2003,labour_force,4380799.2270489
+Quebec,2004,labour_force,4400147.043059965
+Quebec,2005,labour_force,4410000.534982348
+Quebec,2006,labour_force,4434315.481701458
+Quebec,2007,labour_force,4486783.687242337
+Quebec,2008,labour_force,4534082.410605659
+Quebec,2009,labour_force,4571245.982108112
+Quebec,2010,labour_force,4627362.504804795
+Quebec,2011,labour_force,4671494.567629357
+Quebec,2012,labour_force,4713043.474414156
+Quebec,2013,labour_force,4759459.898577622
+Quebec,2014,labour_force,4746175.5405737525
+Quebec,2015,labour_force,4769773.6152775865
+Quebec,2016,labour_force,4776422.555573435
+Quebec,2017,labour_force,4832962.681612875
+Quebec,2018,labour_force,4887814.615301442
+Quebec,2019,labour_force,4949662.749474151
+Quebec,2020,labour_force,4880687.103514112
+Quebec,2021,labour_force,4924150.073285085
+Quebec,2022,labour_force,4998658.036216467
+Quebec,2023,labour_force,5173593.788840308
+Saskatchewan,1976,labour_force,460495.027540168
+Saskatchewan,1977,labour_force,477417.7377134696
+Saskatchewan,1978,labour_force,488314.1958723789
+Saskatchewan,1979,labour_force,499765.2297078901
+Saskatchewan,1980,labour_force,508418.7421242981
+Saskatchewan,1981,labour_force,517967.0576462017
+Saskatchewan,1982,labour_force,526723.1027564853
+Saskatchewan,1983,labour_force,542491.0577237352
+Saskatchewan,1984,labour_force,553717.0629343848
+Saskatchewan,1985,labour_force,567819.300013383
+Saskatchewan,1986,labour_force,577737.7561433315
+Saskatchewan,1987,labour_force,574392.7282495513
+Saskatchewan,1988,labour_force,576442.3239345722
+Saskatchewan,1989,labour_force,569266.3040704465
+Saskatchewan,1990,labour_force,564899.7327549004
+Saskatchewan,1991,labour_force,565496.8536927125
+Saskatchewan,1992,labour_force,563123.655172806
+Saskatchewan,1993,labour_force,564983.0956644941
+Saskatchewan,1994,labour_force,563323.3723871084
+Saskatchewan,1995,labour_force,567705.3908482668
+Saskatchewan,1996,labour_force,565195.3779620058
+Saskatchewan,1997,labour_force,573530.857429988
+Saskatchewan,1998,labour_force,578151.475671281
+Saskatchewan,1999,labour_force,579826.4988311254
+Saskatchewan,2000,labour_force,577041.2568778669
+Saskatchewan,2001,labour_force,565311.4159326833
+Saskatchewan,2002,labour_force,574021.6612424705
+Saskatchewan,2003,labour_force,583067.6665620587
+Saskatchewan,2004,labour_force,585859.806325654
+Saskatchewan,2005,labour_force,585728.091974772
+Saskatchewan,2006,labour_force,594759.9900208917
+Saskatchewan,2007,labour_force,609219.1274858422
+Saskatchewan,2008,labour_force,621012.8353075712
+Saskatchewan,2009,labour_force,636541.495291563
+Saskatchewan,2010,labour_force,647247.203014092
+Saskatchewan,2011,labour_force,650754.9908516573
+Saskatchewan,2012,labour_force,661935.1603243035
+Saskatchewan,2013,labour_force,673723.755804572
+Saskatchewan,2014,labour_force,676056.5740120562
+Saskatchewan,2015,labour_force,686164.8255754777
+Saskatchewan,2016,labour_force,690967.1146354227
+Saskatchewan,2017,labour_force,692393.4018526687
+Saskatchewan,2018,labour_force,694061.4299770884
+Saskatchewan,2019,labour_force,700618.1891767014
+Saskatchewan,2020,labour_force,684223.5332294815
+Saskatchewan,2021,labour_force,688399.7756627634
+Saskatchewan,2022,labour_force,697780.4784774035
+Saskatchewan,2023,labour_force,714413.2796052631
+Alberta,1976,inactive_adults,497129.2387475786
+Alberta,1977,inactive_adults,518557.2597727436
+Alberta,1978,inactive_adults,526599.4366812226
+Alberta,1979,inactive_adults,525943.5075241916
+Alberta,1980,inactive_adults,534790.8754412688
+Alberta,1981,inactive_adults,531416.9514436212
+Alberta,1982,inactive_adults,560273.5403898533
+Alberta,1983,inactive_adults,567886.6452958994
+Alberta,1984,inactive_adults,558969.6885497042
+Alberta,1985,inactive_adults,553850.5090562264
+Alberta,1986,inactive_adults,561287.8398265212
+Alberta,1987,inactive_adults,569047.9707491987
+Alberta,1988,inactive_adults,565276.5672533556
+Alberta,1989,inactive_adults,575810.6178752107
+Alberta,1990,inactive_adults,591555.2240194024
+Alberta,1991,inactive_adults,601340.0071412208
+Alberta,1992,inactive_adults,618314.7440662892
+Alberta,1993,inactive_adults,636593.0622428914
+Alberta,1994,inactive_adults,639334.1124860507
+Alberta,1995,inactive_adults,642866.1971073085
+Alberta,1996,inactive_adults,654833.4051567509
+Alberta,1997,inactive_adults,673237.1593846059
+Alberta,1998,inactive_adults,680024.0558300489
+Alberta,1999,inactive_adults,694893.9346456928
+Alberta,2000,inactive_adults,717895.6075296395
+Alberta,2001,inactive_adults,729618.5100446981
+Alberta,2002,inactive_adults,734633.4146414413
+Alberta,2003,inactive_adults,731377.6901035097
+Alberta,2004,inactive_adults,745778.5671871607
+Alberta,2005,inactive_adults,789081.5632800166
+Alberta,2006,inactive_adults,784812.8698592489
+Alberta,2007,inactive_adults,780886.2979227523
+Alberta,2008,inactive_adults,793154.2459649369
+Alberta,2009,inactive_adults,818698.52611655
+Alberta,2010,inactive_adults,875364.6294367067
+Alberta,2011,inactive_adults,865662.2258601342
+Alberta,2012,inactive_adults,884491.8168138331
+Alberta,2013,inactive_adults,929334.037620706
+Alberta,2014,inactive_adults,970942.8490429068
+Alberta,2015,inactive_adults,967574.1094131764
+Alberta,2016,inactive_adults,1013639.3276484646
+Alberta,2017,inactive_adults,1035091.2359024612
+Alberta,2018,inactive_adults,1057680.549828229
+Alberta,2019,inactive_adults,1079558.0910823448
+Alberta,2020,inactive_adults,1196481.4946642048
+Alberta,2021,inactive_adults,1178547.0406215754
+Alberta,2022,inactive_adults,1199870.9935712805
+Alberta,2023,inactive_adults,1227667.6933449325
+British Columbia,1976,inactive_adults,812492.9219141561
+British Columbia,1977,inactive_adults,826992.4699168233
+British Columbia,1978,inactive_adults,823427.7232642744
+British Columbia,1979,inactive_adults,828991.0639645786
+British Columbia,1980,inactive_adults,829469.9981093556
+British Columbia,1981,inactive_adults,837752.4936995155
+British Columbia,1982,inactive_adults,871509.3075753574
+British Columbia,1983,inactive_adults,884333.2129559717
+British Columbia,1984,inactive_adults,903350.013727464
+British Columbia,1985,inactive_adults,904636.0742226026
+British Columbia,1986,inactive_adults,899431.7409674241
+British Columbia,1987,inactive_adults,895822.8838203149
+British Columbia,1988,inactive_adults,915601.5759921456
+British Columbia,1989,inactive_adults,918033.048509722
+British Columbia,1990,inactive_adults,947263.7061858032
+British Columbia,1991,inactive_adults,969719.2993811138
+British Columbia,1992,inactive_adults,995403.6470005204
+British Columbia,1993,inactive_adults,1031064.2750463212
+British Columbia,1994,inactive_adults,1049688.5524741735
+British Columbia,1995,inactive_adults,1107981.995137855
+British Columbia,1996,inactive_adults,1160287.9835764917
+British Columbia,1997,inactive_adults,1185437.5465810932
+British Columbia,1998,inactive_adults,1222381.3493636805
+British Columbia,1999,inactive_adults,1230449.9102009516
+British Columbia,2000,inactive_adults,1251268.4055165933
+British Columbia,2001,inactive_adults,1295209.594847397
+British Columbia,2002,inactive_adults,1270764.522148213
+British Columbia,2003,inactive_adults,1258392.01108314
+British Columbia,2004,inactive_adults,1282217.3769384618
+British Columbia,2005,inactive_adults,1290626.8069349965
+British Columbia,2006,inactive_adults,1292462.988953954
+British Columbia,2007,inactive_adults,1292056.3852561866
+British Columbia,2008,inactive_adults,1302617.8630580278
+British Columbia,2009,inactive_adults,1331702.0056155643
+British Columbia,2010,inactive_adults,1368120.698354213
+British Columbia,2011,inactive_adults,1403645.9329756363
+British Columbia,2012,inactive_adults,1418629.378527386
+British Columbia,2013,inactive_adults,1463844.275758341
+British Columbia,2014,inactive_adults,1519131.6575986207
+British Columbia,2015,inactive_adults,1536838.4692952093
+British Columbia,2016,inactive_adults,1526664.80064103
+British Columbia,2017,inactive_adults,1512654.1430630274
+British Columbia,2018,inactive_adults,1559783.0348603283
+British Columbia,2019,inactive_adults,1559495.1541103967
+British Columbia,2020,inactive_adults,1677493.0949802315
+British Columbia,2021,inactive_adults,1633207.4253660142
+British Columbia,2022,inactive_adults,1700564.9747905806
+British Columbia,2023,inactive_adults,1763606.087717723
+Manitoba,1976,inactive_adults,325106.16743686795
+Manitoba,1977,inactive_adults,325802.8922047507
+Manitoba,1978,inactive_adults,321424.3271233421
+Manitoba,1979,inactive_adults,317610.75647246523
+Manitoba,1980,inactive_adults,311515.93468564725
+Manitoba,1981,inactive_adults,305302.6355154432
+Manitoba,1982,inactive_adults,309142.750142582
+Manitoba,1983,inactive_adults,307253.76153356663
+Manitoba,1984,inactive_adults,310475.0963768343
+Manitoba,1985,inactive_adults,313546.44117129524
+Manitoba,1986,inactive_adults,310329.74279799545
+Manitoba,1987,inactive_adults,311472.25923587626
+Manitoba,1988,inactive_adults,312326.17770586256
+Manitoba,1989,inactive_adults,307607.0002836852
+Manitoba,1990,inactive_adults,308611.770754345
+Manitoba,1991,inactive_adults,312674.5059277391
+Manitoba,1992,inactive_adults,318314.6543501654
+Manitoba,1993,inactive_adults,316306.43139221217
+Manitoba,1994,inactive_adults,319155.0404394857
+Manitoba,1995,inactive_adults,322905.69123551634
+Manitoba,1996,inactive_adults,325898.4207116851
+Manitoba,1997,inactive_adults,325377.61521728383
+Manitoba,1998,inactive_adults,322768.3571639819
+Manitoba,1999,inactive_adults,319768.5430044298
+Manitoba,2000,inactive_adults,317961.3301851888
+Manitoba,2001,inactive_adults,321005.72942047904
+Manitoba,2002,inactive_adults,311066.02032323624
+Manitoba,2003,inactive_adults,315998.7832948015
+Manitoba,2004,inactive_adults,316771.22232870606
+Manitoba,2005,inactive_adults,323761.1349066639
+Manitoba,2006,inactive_adults,324444.06737919955
+Manitoba,2007,inactive_adults,319576.72863776656
+Manitoba,2008,inactive_adults,319276.2450711989
+Manitoba,2009,inactive_adults,324221.41688095743
+Manitoba,2010,inactive_adults,324152.0838981301
+Manitoba,2011,inactive_adults,329213.1670392448
+Manitoba,2012,inactive_adults,337713.1679392656
+Manitoba,2013,inactive_adults,343136.5903127192
+Manitoba,2014,inactive_adults,353258.9328672767
+Manitoba,2015,inactive_adults,352986.2448590206
+Manitoba,2016,inactive_adults,367433.894615558
+Manitoba,2017,inactive_adults,379663.4804792465
+Manitoba,2018,inactive_adults,383044.4001167656
+Manitoba,2019,inactive_adults,393774.93562781904
+Manitoba,2020,inactive_adults,413612.8818369084
+Manitoba,2021,inactive_adults,406598.2563119106
+Manitoba,2022,inactive_adults,413071.1037640516
+Manitoba,2023,inactive_adults,430289.8173856331
+New Brunswick,1976,inactive_adults,256631.6622282937
+New Brunswick,1977,inactive_adults,262047.7296636501
+New Brunswick,1978,inactive_adults,258975.7491475564
+New Brunswick,1979,inactive_adults,258974.33556074923
+New Brunswick,1980,inactive_adults,260490.8900547371
+New Brunswick,1981,inactive_adults,257646.1282778628
+New Brunswick,1982,inactive_adults,264487.19462487433
+New Brunswick,1983,inactive_adults,266441.5536188606
+New Brunswick,1984,inactive_adults,269502.2452941359
+New Brunswick,1985,inactive_adults,263676.71655718586
+New Brunswick,1986,inactive_adults,260099.60467205744
+New Brunswick,1987,inactive_adults,257433.25652679417
+New Brunswick,1988,inactive_adults,254901.59952110145
+New Brunswick,1989,inactive_adults,252209.69277144124
+New Brunswick,1990,inactive_adults,254431.29896182625
+New Brunswick,1991,inactive_adults,264973.29115628527
+New Brunswick,1992,inactive_adults,266273.3087738467
+New Brunswick,1993,inactive_adults,265807.9860292012
+New Brunswick,1994,inactive_adults,270574.931207958
+New Brunswick,1995,inactive_adults,266847.2142826731
+New Brunswick,1996,inactive_adults,270623.73444276483
+New Brunswick,1997,inactive_adults,264467.37259010307
+New Brunswick,1998,inactive_adults,259372.51521488925
+New Brunswick,1999,inactive_adults,258598.44755909912
+New Brunswick,2000,inactive_adults,253952.4559233256
+New Brunswick,2001,inactive_adults,251754.02890093092
+New Brunswick,2002,inactive_adults,243549.8880789379
+New Brunswick,2003,inactive_adults,245944.69121343544
+New Brunswick,2004,inactive_adults,240958.5093975904
+New Brunswick,2005,inactive_adults,244455.18367851796
+New Brunswick,2006,inactive_adults,242998.9479866464
+New Brunswick,2007,inactive_adults,241034.36190136697
+New Brunswick,2008,inactive_adults,234743.32653479133
+New Brunswick,2009,inactive_adults,237164.3055291659
+New Brunswick,2010,inactive_adults,241123.376130077
+New Brunswick,2011,inactive_adults,247097.1727053141
+New Brunswick,2012,inactive_adults,247904.83962907043
+New Brunswick,2013,inactive_adults,246828.60761958105
+New Brunswick,2014,inactive_adults,250612.69210190064
+New Brunswick,2015,inactive_adults,254767.39385118437
+New Brunswick,2016,inactive_adults,256175.7978202788
+New Brunswick,2017,inactive_adults,263327.79657001456
+New Brunswick,2018,inactive_adults,266498.3243925735
+New Brunswick,2019,inactive_adults,270315.3501426348
+New Brunswick,2020,inactive_adults,278381.433383571
+New Brunswick,2021,inactive_adults,275915.1553956282
+New Brunswick,2022,inactive_adults,289047.6253215383
+New Brunswick,2023,inactive_adults,296730.8208512532
+Newfoundland and Labrador,1976,inactive_adults,220484.1762140288
+Newfoundland and Labrador,1977,inactive_adults,218276.3671096345
+Newfoundland and Labrador,1978,inactive_adults,215466.0448972468
+Newfoundland and Labrador,1979,inactive_adults,210838.0837193344
+Newfoundland and Labrador,1980,inactive_adults,214658.7238604769
+Newfoundland and Labrador,1981,inactive_adults,215590.00767364205
+Newfoundland and Labrador,1982,inactive_adults,217275.66911990813
+Newfoundland and Labrador,1983,inactive_adults,219987.1744804253
+Newfoundland and Labrador,1984,inactive_adults,220199.866616233
+Newfoundland and Labrador,1985,inactive_adults,218363.22742983548
+Newfoundland and Labrador,1986,inactive_adults,218058.70602447508
+Newfoundland and Labrador,1987,inactive_adults,220238.2245980958
+Newfoundland and Labrador,1988,inactive_adults,215879.24229356024
+Newfoundland and Labrador,1989,inactive_adults,213748.8796632868
+Newfoundland and Labrador,1990,inactive_adults,212140.99422118644
+Newfoundland and Labrador,1991,inactive_adults,216446.32639592007
+Newfoundland and Labrador,1992,inactive_adults,226247.62696729548
+Newfoundland and Labrador,1993,inactive_adults,229518.57692734743
+Newfoundland and Labrador,1994,inactive_adults,228066.95587389363
+Newfoundland and Labrador,1995,inactive_adults,230181.7828171642
+Newfoundland and Labrador,1996,inactive_adults,230624.0340113058
+Newfoundland and Labrador,1997,inactive_adults,227841.9659814927
+Newfoundland and Labrador,1998,inactive_adults,217022.784081092
+Newfoundland and Labrador,1999,inactive_adults,205667.9733098836
+Newfoundland and Labrador,2000,inactive_adults,206912.0793090062
+Newfoundland and Labrador,2001,inactive_adults,199218.28765651555
+Newfoundland and Labrador,2002,inactive_adults,192198.21364996769
+Newfoundland and Labrador,2003,inactive_adults,188571.6671157977
+Newfoundland and Labrador,2004,inactive_adults,188682.50750692195
+Newfoundland and Labrador,2005,inactive_adults,190193.38914159656
+Newfoundland and Labrador,2006,inactive_adults,187077.9903258656
+Newfoundland and Labrador,2007,inactive_adults,186231.8911156822
+Newfoundland and Labrador,2008,inactive_adults,185462.13052877592
+Newfoundland and Labrador,2009,inactive_adults,189184.4659625318
+Newfoundland and Labrador,2010,inactive_adults,186474.07700076216
+Newfoundland and Labrador,2011,inactive_adults,185269.4466282039
+Newfoundland and Labrador,2012,inactive_adults,180243.1426689253
+Newfoundland and Labrador,2013,inactive_adults,182322.46306120532
+Newfoundland and Labrador,2014,inactive_adults,184671.1180747663
+Newfoundland and Labrador,2015,inactive_adults,183238.30628008512
+Newfoundland and Labrador,2016,inactive_adults,188812.23757163057
+Newfoundland and Labrador,2017,inactive_adults,195331.97889329388
+Newfoundland and Labrador,2018,inactive_adults,197381.5546848763
+Newfoundland and Labrador,2019,inactive_adults,198279.2364288919
+Newfoundland and Labrador,2020,inactive_adults,209270.767417937
+Newfoundland and Labrador,2021,inactive_adults,204239.0731410604
+Newfoundland and Labrador,2022,inactive_adults,202370.4404511921
+Newfoundland and Labrador,2023,inactive_adults,203018.5312361542
+Nova Scotia,1976,inactive_adults,302727.1383536663
+Nova Scotia,1977,inactive_adults,307491.9037051465
+Nova Scotia,1978,inactive_adults,307020.2058670465
+Nova Scotia,1979,inactive_adults,305165.05262306577
+Nova Scotia,1980,inactive_adults,306495.9132134688
+Nova Scotia,1981,inactive_adults,305811.71459430974
+Nova Scotia,1982,inactive_adults,308324.8572098476
+Nova Scotia,1983,inactive_adults,311402.97531275643
+Nova Scotia,1984,inactive_adults,303948.0654785212
+Nova Scotia,1985,inactive_adults,306845.36143151065
+Nova Scotia,1986,inactive_adults,305647.9824214892
+Nova Scotia,1987,inactive_adults,307330.4363460384
+Nova Scotia,1988,inactive_adults,303612.1538386689
+Nova Scotia,1989,inactive_adults,301703.07599715365
+Nova Scotia,1990,inactive_adults,299211.9011585504
+Nova Scotia,1991,inactive_adults,303944.2473997204
+Nova Scotia,1992,inactive_adults,318782.2456918875
+Nova Scotia,1993,inactive_adults,319789.1875241203
+Nova Scotia,1994,inactive_adults,321081.03656749404
+Nova Scotia,1995,inactive_adults,327701.363657402
+Nova Scotia,1996,inactive_adults,329372.62567583105
+Nova Scotia,1997,inactive_adults,328119.7703690987
+Nova Scotia,1998,inactive_adults,322302.5985403125
+Nova Scotia,1999,inactive_adults,322060.5766574821
+Nova Scotia,2000,inactive_adults,318312.90020632965
+Nova Scotia,2001,inactive_adults,312126.3876735097
+Nova Scotia,2002,inactive_adults,309750.3272563056
+Nova Scotia,2003,inactive_adults,307237.857436919
+Nova Scotia,2004,inactive_adults,301089.1129629833
+Nova Scotia,2005,inactive_adults,305407.96649580507
+Nova Scotia,2006,inactive_adults,311430.32984304614
+Nova Scotia,2007,inactive_adults,304828.93669810705
+Nova Scotia,2008,inactive_adults,302945.332378068
+Nova Scotia,2009,inactive_adults,299636.5679213696
+Nova Scotia,2010,inactive_adults,300649.3796243598
+Nova Scotia,2011,inactive_adults,304572.25733320497
+Nova Scotia,2012,inactive_adults,299668.8878440759
+Nova Scotia,2013,inactive_adults,303104.599852261
+Nova Scotia,2014,inactive_adults,311038.0942467868
+Nova Scotia,2015,inactive_adults,316919.97129186604
+Nova Scotia,2016,inactive_adults,325529.8170224562
+Nova Scotia,2017,inactive_adults,327444.8958187932
+Nova Scotia,2018,inactive_adults,334893.2911941189
+Nova Scotia,2019,inactive_adults,334329.29509196745
+Nova Scotia,2020,inactive_adults,355448.6862524312
+Nova Scotia,2021,inactive_adults,342272.7714363985
+Nova Scotia,2022,inactive_adults,356532.56239090767
+Nova Scotia,2023,inactive_adults,365701.8151931431
+Ontario,1976,inactive_adults,2501288.2427802887
+Ontario,1977,inactive_adults,2523131.5985596804
+Ontario,1978,inactive_adults,2497992.767997401
+Ontario,1979,inactive_adults,2451049.7558358656
+Ontario,1980,inactive_adults,2474692.463886858
+Ontario,1981,inactive_adults,2432154.2050540578
+Ontario,1982,inactive_adults,2476618.8844870413
+Ontario,1983,inactive_adults,2511686.5651323907
+Ontario,1984,inactive_adults,2531704.1800680226
+Ontario,1985,inactive_adults,2530632.514910989
+Ontario,1986,inactive_adults,2546438.1484893383
+Ontario,1987,inactive_adults,2575057.5892995214
+Ontario,1988,inactive_adults,2584610.490411509
+Ontario,1989,inactive_adults,2632500.630453052
+Ontario,1990,inactive_adults,2715120.4214908388
+Ontario,1991,inactive_adults,2841497.401096207
+Ontario,1992,inactive_adults,2984844.514786792
+Ontario,1993,inactive_adults,3075054.2005590247
+Ontario,1994,inactive_adults,3184921.1851451388
+Ontario,1995,inactive_adults,3267854.8355659777
+Ontario,1996,inactive_adults,3303538.832175133
+Ontario,1997,inactive_adults,3336120.9547742987
+Ontario,1998,inactive_adults,3362100.170551422
+Ontario,1999,inactive_adults,3349308.286906036
+Ontario,2000,inactive_adults,3356923.2763481326
+Ontario,2001,inactive_adults,3398438.4526351355
+Ontario,2002,inactive_adults,3413616.007728354
+Ontario,2003,inactive_adults,3381105.01462127
+Ontario,2004,inactive_adults,3435416.718726095
+Ontario,2005,inactive_adults,3524535.604635862
+Ontario,2006,inactive_adults,3600082.370910285
+Ontario,2007,inactive_adults,3636259.0218386063
+Ontario,2008,inactive_adults,3681052.470506425
+Ontario,2009,inactive_adults,3781687.2913012495
+Ontario,2010,inactive_adults,3843213.160351441
+Ontario,2011,inactive_adults,3914270.4657643614
+Ontario,2012,inactive_adults,3998852.998865024
+Ontario,2013,inactive_adults,4038475.67700541
+Ontario,2014,inactive_adults,4132844.081588446
+Ontario,2015,inactive_adults,4224737.062126061
+Ontario,2016,inactive_adults,4315727.022248892
+Ontario,2017,inactive_adults,4367753.198169143
+Ontario,2018,inactive_adults,4493246.980043302
+Ontario,2019,inactive_adults,4532020.97898674
+Ontario,2020,inactive_adults,4793826.363609515
+Ontario,2021,inactive_adults,4630660.407084534
+Ontario,2022,inactive_adults,4702329.8209276665
+Ontario,2023,inactive_adults,4854650.90237722
+Prince Edward Island,1976,inactive_adults,41095.26881287726
+Prince Edward Island,1977,inactive_adults,41956.46896551723
+Prince Edward Island,1978,inactive_adults,42547.44544929767
+Prince Edward Island,1979,inactive_adults,41334.70820783132
+Prince Edward Island,1980,inactive_adults,41794.817920415546
+Prince Edward Island,1981,inactive_adults,42590.92751888009
+Prince Edward Island,1982,inactive_adults,42624.65824638477
+Prince Edward Island,1983,inactive_adults,41801.18769120029
+Prince Edward Island,1984,inactive_adults,42422.36571327371
+Prince Edward Island,1985,inactive_adults,41509.707235978654
+Prince Edward Island,1986,inactive_adults,40633.31770426326
+Prince Edward Island,1987,inactive_adults,40144.2131799706
+Prince Edward Island,1988,inactive_adults,39384.37393621594
+Prince Edward Island,1989,inactive_adults,38226.11729027849
+Prince Edward Island,1990,inactive_adults,38176.658002038734
+Prince Edward Island,1991,inactive_adults,38812.93167019027
+Prince Edward Island,1992,inactive_adults,38509.07994976979
+Prince Edward Island,1993,inactive_adults,39042.91123233325
+Prince Edward Island,1994,inactive_adults,39393.46197160111
+Prince Edward Island,1995,inactive_adults,40207.80905861457
+Prince Edward Island,1996,inactive_adults,39594.440986353846
+Prince Edward Island,1997,inactive_adults,40107.155675332906
+Prince Edward Island,1998,inactive_adults,40470.8664824319
+Prince Edward Island,1999,inactive_adults,39933.68843590749
+Prince Edward Island,2000,inactive_adults,39208.892325672
+Prince Edward Island,2001,inactive_adults,39219.29348078261
+Prince Edward Island,2002,inactive_adults,38901.84551660658
+Prince Edward Island,2003,inactive_adults,38988.19390940237
+Prince Edward Island,2004,inactive_adults,38804.81478687287
+Prince Edward Island,2005,inactive_adults,38617.786756453424
+Prince Edward Island,2006,inactive_adults,38216.43925859759
+Prince Edward Island,2007,inactive_adults,39307.05389976276
+Prince Edward Island,2008,inactive_adults,39022.973898978016
+Prince Edward Island,2009,inactive_adults,39702.29536848237
+Prince Edward Island,2010,inactive_adults,40138.72398254775
+Prince Edward Island,2011,inactive_adults,40068.64552868391
+Prince Edward Island,2012,inactive_adults,39992.49161308359
+Prince Edward Island,2013,inactive_adults,38575.107112853526
+Prince Edward Island,2014,inactive_adults,40545.60830362758
+Prince Edward Island,2015,inactive_adults,41270.007109995815
+Prince Edward Island,2016,inactive_adults,43588.21581548599
+Prince Edward Island,2017,inactive_adults,44095.57495969908
+Prince Edward Island,2018,inactive_adults,44656.13687114147
+Prince Edward Island,2019,inactive_adults,46288.60593654044
+Prince Edward Island,2020,inactive_adults,50280.73282154545
+Prince Edward Island,2021,inactive_adults,49619.11747922095
+Prince Edward Island,2022,inactive_adults,52199.38933125784
+Prince Edward Island,2023,inactive_adults,56388.432508833925
+Quebec,1976,inactive_adults,2187479.8467418333
+Quebec,1977,inactive_adults,2183859.0850648326
+Quebec,1978,inactive_adults,2162260.0191452745
+Quebec,1979,inactive_adults,2154036.880260521
+Quebec,1980,inactive_adults,2135623.670858243
+Quebec,1981,inactive_adults,2129846.655269977
+Quebec,1982,inactive_adults,2226665.4831711827
+Quebec,1983,inactive_adults,2209939.329006592
+Quebec,1984,inactive_adults,2192316.991917494
+Quebec,1985,inactive_adults,2169111.3701426904
+Quebec,1986,inactive_adults,2163311.119803709
+Quebec,1987,inactive_adults,2148832.259137573
+Quebec,1988,inactive_adults,2152105.8091404187
+Quebec,1989,inactive_adults,2158027.2122991346
+Quebec,1990,inactive_adults,2170798.24892989
+Quebec,1991,inactive_adults,2226772.618631011
+Quebec,1992,inactive_adults,2302137.491898829
+Quebec,1993,inactive_adults,2333270.014192529
+Quebec,1994,inactive_adults,2339461.1993320747
+Quebec,1995,inactive_adults,2375436.121395913
+Quebec,1996,inactive_adults,2409412.0969543443
+Quebec,1997,inactive_adults,2420730.9801504635
+Quebec,1998,inactive_adults,2404733.76924214
+Quebec,1999,inactive_adults,2403629.883061906
+Quebec,2000,inactive_adults,2399073.3750774846
+Quebec,2001,inactive_adults,2386596.685418024
+Quebec,2002,inactive_adults,2295192.229751095
+Quebec,2003,inactive_adults,2247093.7729511
+Quebec,2004,inactive_adults,2272229.956940036
+Quebec,2005,inactive_adults,2312290.465017652
+Quebec,2006,inactive_adults,2344146.518298542
+Quebec,2007,inactive_adults,2356149.3127576634
+Quebec,2008,inactive_adults,2379483.589394341
+Quebec,2009,inactive_adults,2424653.0178918885
+Quebec,2010,inactive_adults,2454571.4951952053
+Quebec,2011,inactive_adults,2490041.432370643
+Quebec,2012,inactive_adults,2504591.525585844
+Quebec,2013,inactive_adults,2507862.101422378
+Quebec,2014,inactive_adults,2560273.4594262475
+Quebec,2015,inactive_adults,2566835.384722413
+Quebec,2016,inactive_adults,2603255.4444265654
+Quebec,2017,inactive_adults,2605145.3183871247
+Quebec,2018,inactive_adults,2628641.3846985577
+Quebec,2019,inactive_adults,2648961.250525849
+Quebec,2020,inactive_adults,2773408.8964858884
+Quebec,2021,inactive_adults,2751708.926714915
+Quebec,2022,inactive_adults,2770424.9637835333
+Quebec,2023,inactive_adults,2762099.211159692
+Saskatchewan,1976,inactive_adults,300180.972459832
+Saskatchewan,1977,inactive_adults,297068.26228653046
+Saskatchewan,1978,inactive_adults,297104.8041276211
+Saskatchewan,1979,inactive_adults,295397.77029210987
+Saskatchewan,1980,inactive_adults,296638.2578757019
+Saskatchewan,1981,inactive_adults,296039.9423537983
+Saskatchewan,1982,inactive_adults,297014.89724351466
+Saskatchewan,1983,inactive_adults,293844.9422762648
+Saskatchewan,1984,inactive_adults,295355.9370656152
+Saskatchewan,1985,inactive_adults,291185.69998661696
+Saskatchewan,1986,inactive_adults,285891.2438566685
+Saskatchewan,1987,inactive_adults,292637.27175044874
+Saskatchewan,1988,inactive_adults,288081.67606542783
+Saskatchewan,1989,inactive_adults,288341.6959295535
+Saskatchewan,1990,inactive_adults,283413.26724509965
+Saskatchewan,1991,inactive_adults,279840.1463072875
+Saskatchewan,1992,inactive_adults,283705.344827194
+Saskatchewan,1993,inactive_adults,284421.9043355059
+Saskatchewan,1994,inactive_adults,289832.6276128916
+Saskatchewan,1995,inactive_adults,291974.6091517332
+Saskatchewan,1996,inactive_adults,300451.6220379942
+Saskatchewan,1997,inactive_adults,293328.142570012
+Saskatchewan,1998,inactive_adults,290696.524328719
+Saskatchewan,1999,inactive_adults,288878.50116887456
+Saskatchewan,2000,inactive_adults,287473.7431221331
+Saskatchewan,2001,inactive_adults,295071.5840673167
+Saskatchewan,2002,inactive_adults,284964.3387575295
+Saskatchewan,2003,inactive_adults,277106.33343794127
+Saskatchewan,2004,inactive_adults,277225.193674346
+Saskatchewan,2005,inactive_adults,276916.90802522795
+Saskatchewan,2006,inactive_adults,268918.00997910835
+Saskatchewan,2007,inactive_adults,263504.8725141578
+Saskatchewan,2008,inactive_adults,265053.1646924288
+Saskatchewan,2009,inactive_adults,265331.504708437
+Saskatchewan,2010,inactive_adults,269072.79698590795
+Saskatchewan,2011,inactive_adults,278443.00914834265
+Saskatchewan,2012,inactive_adults,282706.83967569645
+Saskatchewan,2013,inactive_adults,285388.244195428
+Saskatchewan,2014,inactive_adults,294337.4259879438
+Saskatchewan,2015,inactive_adults,293717.1744245223
+Saskatchewan,2016,inactive_adults,299647.8853645773
+Saskatchewan,2017,inactive_adults,308024.5981473313
+Saskatchewan,2018,inactive_adults,313129.57002291165
+Saskatchewan,2019,inactive_adults,313949.81082329864
+Saskatchewan,2020,inactive_adults,333137.46677051845
+Saskatchewan,2021,inactive_adults,330084.2243372366
+Saskatchewan,2022,inactive_adults,331515.5215225965
+Saskatchewan,2023,inactive_adults,344148.72039473685

@@ -1,0 +1,961 @@
+GEO,year,variable,value
+Alberta,1976,parttime,145633.23475987773
+Alberta,1977,parttime,150392.68398484957
+Alberta,1978,parttime,162423.40166085155
+Alberta,1979,parttime,162175.7383675885
+Alberta,1980,parttime,172248.07260318488
+Alberta,1981,parttime,184243.79026343155
+Alberta,1982,parttime,192377.93528007047
+Alberta,1983,parttime,211334.89820050448
+Alberta,1984,parttime,220914.4161990408
+Alberta,1985,parttime,229218.7629166293
+Alberta,1986,parttime,227362.80564000015
+Alberta,1987,parttime,235772.43382305265
+Alberta,1988,parttime,240984.7822935744
+Alberta,1989,parttime,246500.8347835863
+Alberta,1990,parttime,247156.15808838292
+Alberta,1991,parttime,253351.64018835625
+Alberta,1992,parttime,270614.5250226981
+Alberta,1993,parttime,284587.31370534527
+Alberta,1994,parttime,292124.9149016702
+Alberta,1995,parttime,300026.8923782137
+Alberta,1996,parttime,299169.8936624752
+Alberta,1997,parttime,306855.8677112837
+Alberta,1998,parttime,323920.4091439015
+Alberta,1999,parttime,332323.69845500455
+Alberta,2000,parttime,327079.23955842294
+Alberta,2001,parttime,329028.31379677565
+Alberta,2002,parttime,332597.61134944257
+Alberta,2003,parttime,346930.33246879064
+Alberta,2004,parttime,355481.0545064368
+Alberta,2005,parttime,347624.05831651064
+Alberta,2006,parttime,340813.93972459104
+Alberta,2007,parttime,346609.5858641601
+Alberta,2008,parttime,362349.1367215588
+Alberta,2009,parttime,398773.1028795019
+Alberta,2010,parttime,395172.66768951
+Alberta,2011,parttime,396732.0336809068
+Alberta,2012,parttime,391546.3261121428
+Alberta,2013,parttime,390200.8898857086
+Alberta,2014,parttime,412112.1570738614
+Alberta,2015,parttime,433821.9728978863
+Alberta,2016,parttime,462540.1416648439
+Alberta,2017,parttime,462774.902800808
+Alberta,2018,parttime,453993.6150613191
+Alberta,2019,parttime,462275.1372790436
+Alberta,2020,parttime,425121.7700141767
+Alberta,2021,parttime,465559.87559084
+Alberta,2022,parttime,483215.43390333
+Alberta,2023,parttime,508120.5140006525
+British Columbia,1976,parttime,180443.72665778856
+British Columbia,1977,parttime,187606.20800515212
+British Columbia,1978,parttime,191042.54167564888
+British Columbia,1979,parttime,207974.4941042345
+British Columbia,1980,parttime,235298.723115751
+British Columbia,1981,parttime,245073.7707835509
+British Columbia,1982,parttime,249344.1301429812
+British Columbia,1983,parttime,271140.6409976113
+British Columbia,1984,parttime,266849.9650407248
+British Columbia,1985,parttime,275975.9758909833
+British Columbia,1986,parttime,293788.82473232434
+British Columbia,1987,parttime,294516.22108448256
+British Columbia,1988,parttime,306503.25021703186
+British Columbia,1989,parttime,297299.3904326179
+British Columbia,1990,parttime,311962.6272278257
+British Columbia,1991,parttime,342275.8266098849
+British Columbia,1992,parttime,352176.92784633057
+British Columbia,1993,parttime,365558.25672837306
+British Columbia,1994,parttime,404993.9487200822
+British Columbia,1995,parttime,394634.34975451103
+British Columbia,1996,parttime,405843.8388716868
+British Columbia,1997,parttime,430028.15325563547
+British Columbia,1998,parttime,442216.330804868
+British Columbia,1999,parttime,450535.6843162564
+British Columbia,2000,parttime,440144.7116363938
+British Columbia,2001,parttime,446258.98726632894
+British Columbia,2002,parttime,491079.0980448877
+British Columbia,2003,parttime,492014.8047872006
+British Columbia,2004,parttime,468418.8540899226
+British Columbia,2005,parttime,473529.3375590642
+British Columbia,2006,parttime,486115.41144148674
+British Columbia,2007,parttime,498720.8466329823
+British Columbia,2008,parttime,500340.94415811327
+British Columbia,2009,parttime,529536.0648370066
+British Columbia,2010,parttime,541349.9843950437
+British Columbia,2011,parttime,553191.9728751091
+British Columbia,2012,parttime,544943.5544166011
+British Columbia,2013,parttime,543902.1886971511
+British Columbia,2014,parttime,554672.2438739686
+British Columbia,2015,parttime,529164.2072518144
+British Columbia,2016,parttime,575627.1191352885
+British Columbia,2017,parttime,596967.109875654
+British Columbia,2018,parttime,603427.4185941769
+British Columbia,2019,parttime,635679.0215406922
+British Columbia,2020,parttime,575750.0771182919
+British Columbia,2021,parttime,635666.0763580255
+British Columbia,2022,parttime,627424.9516880652
+British Columbia,2023,parttime,627862.3303106482
+Manitoba,1976,parttime,70919.10346258669
+Manitoba,1977,parttime,76626.25111321708
+Manitoba,1978,parttime,80208.92928349474
+Manitoba,1979,parttime,83303.05419034962
+Manitoba,1980,parttime,88349.37678957244
+Manitoba,1981,parttime,89956.92491645289
+Manitoba,1982,parttime,96517.39384296192
+Manitoba,1983,parttime,101038.05949366638
+Manitoba,1984,parttime,103051.62536204708
+Manitoba,1985,parttime,101444.74665918398
+Manitoba,1986,parttime,106969.3503794114
+Manitoba,1987,parttime,110168.0794468657
+Manitoba,1988,parttime,111900.4000454686
+Manitoba,1989,parttime,114142.28374220284
+Manitoba,1990,parttime,119486.0181786931
+Manitoba,1991,parttime,126922.53284245582
+Manitoba,1992,parttime,127329.26438197284
+Manitoba,1993,parttime,128106.12815826733
+Manitoba,1994,parttime,124283.79054277609
+Manitoba,1995,parttime,123999.93992288609
+Manitoba,1996,parttime,126461.81597844911
+Manitoba,1997,parttime,122538.09508801572
+Manitoba,1998,parttime,120228.35778323562
+Manitoba,1999,parttime,122954.4458701808
+Manitoba,2000,parttime,120846.41437551891
+Manitoba,2001,parttime,122824.47418178985
+Manitoba,2002,parttime,130550.87245491758
+Manitoba,2003,parttime,129388.3736978174
+Manitoba,2004,parttime,127833.5087153308
+Manitoba,2005,parttime,131088.02121136073
+Manitoba,2006,parttime,133615.3378805678
+Manitoba,2007,parttime,132464.35247337542
+Manitoba,2008,parttime,133054.3660009124
+Manitoba,2009,parttime,134105.7163892887
+Manitoba,2010,parttime,138562.27088700773
+Manitoba,2011,parttime,139824.2912525764
+Manitoba,2012,parttime,139833.7004952976
+Manitoba,2013,parttime,142072.77878420232
+Manitoba,2014,parttime,139210.39927521336
+Manitoba,2015,parttime,140672.52435393937
+Manitoba,2016,parttime,143784.3206786284
+Manitoba,2017,parttime,145492.8147803003
+Manitoba,2018,parttime,149421.83004013222
+Manitoba,2019,parttime,151012.73586976549
+Manitoba,2020,parttime,141112.51099228012
+Manitoba,2021,parttime,140272.89970106844
+Manitoba,2022,parttime,148063.35061962472
+Manitoba,2023,parttime,147886.01490729526
+New Brunswick,1976,parttime,29431.07530823635
+New Brunswick,1977,parttime,30564.87549450736
+New Brunswick,1978,parttime,32644.02899217409
+New Brunswick,1979,parttime,37676.06058061001
+New Brunswick,1980,parttime,38724.84272418667
+New Brunswick,1981,parttime,42857.50504996302
+New Brunswick,1982,parttime,44120.75800011035
+New Brunswick,1983,parttime,47488.31005262624
+New Brunswick,1984,parttime,46595.847257553934
+New Brunswick,1985,parttime,48334.18463666223
+New Brunswick,1986,parttime,50267.4591002191
+New Brunswick,1987,parttime,50318.94535098525
+New Brunswick,1988,parttime,53270.40732735748
+New Brunswick,1989,parttime,53012.70441416086
+New Brunswick,1990,parttime,53616.96933799949
+New Brunswick,1991,parttime,54798.1569986694
+New Brunswick,1992,parttime,55832.75360000227
+New Brunswick,1993,parttime,57587.5100207704
+New Brunswick,1994,parttime,56778.55428304646
+New Brunswick,1995,parttime,57508.823125586896
+New Brunswick,1996,parttime,58637.921511011904
+New Brunswick,1997,parttime,58267.14507456015
+New Brunswick,1998,parttime,56596.77194233722
+New Brunswick,1999,parttime,58541.87808085045
+New Brunswick,2000,parttime,56428.75749470634
+New Brunswick,2001,parttime,54669.483159649855
+New Brunswick,2002,parttime,59482.12910009117
+New Brunswick,2003,parttime,58568.86746436448
+New Brunswick,2004,parttime,61352.1887451576
+New Brunswick,2005,parttime,62905.673927683005
+New Brunswick,2006,parttime,62701.45947078683
+New Brunswick,2007,parttime,63436.34758764412
+New Brunswick,2008,parttime,62933.38903123564
+New Brunswick,2009,parttime,64130.52689582527
+New Brunswick,2010,parttime,60925.936823640535
+New Brunswick,2011,parttime,64566.41506967624
+New Brunswick,2012,parttime,61072.96351505032
+New Brunswick,2013,parttime,62779.52508792847
+New Brunswick,2014,parttime,62318.25115796199
+New Brunswick,2015,parttime,59981.64133017561
+New Brunswick,2016,parttime,63033.15962087527
+New Brunswick,2017,parttime,58967.618295799446
+New Brunswick,2018,parttime,58780.38005209557
+New Brunswick,2019,parttime,61003.31553423237
+New Brunswick,2020,parttime,56769.46392220025
+New Brunswick,2021,parttime,61903.56067318518
+New Brunswick,2022,parttime,58618.932937635655
+New Brunswick,2023,parttime,64409.29482426219
+Newfoundland and Labrador,1976,parttime,14406.66418362941
+Newfoundland and Labrador,1977,parttime,15343.68559937378
+Newfoundland and Labrador,1978,parttime,16574.392948571633
+Newfoundland and Labrador,1979,parttime,18274.272337061044
+Newfoundland and Labrador,1980,parttime,18771.2842297557
+Newfoundland and Labrador,1981,parttime,19047.835807389267
+Newfoundland and Labrador,1982,parttime,20339.56919966065
+Newfoundland and Labrador,1983,parttime,22810.38785506712
+Newfoundland and Labrador,1984,parttime,23012.303657104178
+Newfoundland and Labrador,1985,parttime,24739.79656825372
+Newfoundland and Labrador,1986,parttime,24775.684303058988
+Newfoundland and Labrador,1987,parttime,25755.88774820365
+Newfoundland and Labrador,1988,parttime,26755.57109401964
+Newfoundland and Labrador,1989,parttime,29054.323941257564
+Newfoundland and Labrador,1990,parttime,28550.12811913829
+Newfoundland and Labrador,1991,parttime,30633.50324255194
+Newfoundland and Labrador,1992,parttime,31789.616183261485
+Newfoundland and Labrador,1993,parttime,33110.91906506229
+Newfoundland and Labrador,1994,parttime,32001.941275063047
+Newfoundland and Labrador,1995,parttime,34897.88267537089
+Newfoundland and Labrador,1996,parttime,34784.42042062296
+Newfoundland and Labrador,1997,parttime,34841.011084118334
+Newfoundland and Labrador,1998,parttime,34883.61462046072
+Newfoundland and Labrador,1999,parttime,34330.905357349926
+Newfoundland and Labrador,2000,parttime,32289.46216897287
+Newfoundland and Labrador,2001,parttime,32377.96056844242
+Newfoundland and Labrador,2002,parttime,35371.99241063104
+Newfoundland and Labrador,2003,parttime,34688.7715244828
+Newfoundland and Labrador,2004,parttime,34372.41141395259
+Newfoundland and Labrador,2005,parttime,34204.51814006595
+Newfoundland and Labrador,2006,parttime,35313.8200101833
+Newfoundland and Labrador,2007,parttime,33717.12967206634
+Newfoundland and Labrador,2008,parttime,34445.01419807187
+Newfoundland and Labrador,2009,parttime,33296.75556613942
+Newfoundland and Labrador,2010,parttime,35866.98592429365
+Newfoundland and Labrador,2011,parttime,37374.2141681642
+Newfoundland and Labrador,2012,parttime,35129.19356736194
+Newfoundland and Labrador,2013,parttime,37505.17797043568
+Newfoundland and Labrador,2014,parttime,38716.89785046729
+Newfoundland and Labrador,2015,parttime,37482.594313220645
+Newfoundland and Labrador,2016,parttime,41076.37005412336
+Newfoundland and Labrador,2017,parttime,36444.49057671456
+Newfoundland and Labrador,2018,parttime,40215.33590085381
+Newfoundland and Labrador,2019,parttime,38611.94137879468
+Newfoundland and Labrador,2020,parttime,36617.22999387099
+Newfoundland and Labrador,2021,parttime,36497.97014841572
+Newfoundland and Labrador,2022,parttime,38361.2125533167
+Newfoundland and Labrador,2023,parttime,39071.49091714666
+Nova Scotia,1976,parttime,42732.72010240561
+Nova Scotia,1977,parttime,45373.34948754402
+Nova Scotia,1978,parttime,44860.461158612896
+Nova Scotia,1979,parttime,47845.94461368415
+Nova Scotia,1980,parttime,51064.88582887983
+Nova Scotia,1981,parttime,57021.70727081138
+Nova Scotia,1982,parttime,57679.77422876324
+Nova Scotia,1983,parttime,60124.83465986063
+Nova Scotia,1984,parttime,62963.161763777134
+Nova Scotia,1985,parttime,64183.35401641894
+Nova Scotia,1986,parttime,67206.07621868995
+Nova Scotia,1987,parttime,69239.82242315092
+Nova Scotia,1988,parttime,69752.7676544946
+Nova Scotia,1989,parttime,73562.04062187165
+Nova Scotia,1990,parttime,74509.31705304942
+Nova Scotia,1991,parttime,77486.40171523458
+Nova Scotia,1992,parttime,77640.91206036066
+Nova Scotia,1993,parttime,77637.51422332488
+Nova Scotia,1994,parttime,83528.5947703192
+Nova Scotia,1995,parttime,84881.90692232056
+Nova Scotia,1996,parttime,84938.37386966257
+Nova Scotia,1997,parttime,88962.11127414518
+Nova Scotia,1998,parttime,87108.55880944234
+Nova Scotia,1999,parttime,85897.70094454083
+Nova Scotia,2000,parttime,84826.64201233468
+Nova Scotia,2001,parttime,82573.90000449216
+Nova Scotia,2002,parttime,88082.59673527686
+Nova Scotia,2003,parttime,91389.15631724158
+Nova Scotia,2004,parttime,91658.54827999428
+Nova Scotia,2005,parttime,91141.88414093104
+Nova Scotia,2006,parttime,91554.0126655464
+Nova Scotia,2007,parttime,91017.39242381336
+Nova Scotia,2008,parttime,90894.09419827288
+Nova Scotia,2009,parttime,90456.022103662
+Nova Scotia,2010,parttime,94443.83178874798
+Nova Scotia,2011,parttime,94215.65591443772
+Nova Scotia,2012,parttime,99007.02192588066
+Nova Scotia,2013,parttime,97493.66315519014
+Nova Scotia,2014,parttime,93483.2323474868
+Nova Scotia,2015,parttime,88952.07191835478
+Nova Scotia,2016,parttime,89982.17349193033
+Nova Scotia,2017,parttime,93549.1529411276
+Nova Scotia,2018,parttime,89258.9970189217
+Nova Scotia,2019,parttime,95112.84548977036
+Nova Scotia,2020,parttime,87292.0882862126
+Nova Scotia,2021,parttime,96892.95005594558
+Nova Scotia,2022,parttime,92108.3293299746
+Nova Scotia,2023,parttime,99129.9271217696
+Ontario,1976,parttime,568995.7328718968
+Ontario,1977,parttime,598375.7712369675
+Ontario,1978,parttime,611485.7732526057
+Ontario,1979,parttime,668318.8757264883
+Ontario,1980,parttime,694693.3230988381
+Ontario,1981,parttime,738267.5210005988
+Ontario,1982,parttime,764574.1792918949
+Ontario,1983,parttime,799786.605024828
+Ontario,1984,parttime,816908.8796586706
+Ontario,1985,parttime,846804.3107374494
+Ontario,1986,parttime,859925.3991118443
+Ontario,1987,parttime,880260.4135839832
+Ontario,1988,parttime,935108.3776290813
+Ontario,1989,parttime,960861.6065823048
+Ontario,1990,parttime,989277.1825311164
+Ontario,1991,parttime,1016588.822323562
+Ontario,1992,parttime,1017009.5495306432
+Ontario,1993,parttime,1071429.521491713
+Ontario,1994,parttime,1058385.5991017215
+Ontario,1995,parttime,1059874.3067976676
+Ontario,1996,parttime,1097859.9591436775
+Ontario,1997,parttime,1122662.4320807713
+Ontario,1998,parttime,1125864.8328948198
+Ontario,1999,parttime,1122970.5069916316
+Ontario,2000,parttime,1158155.168717915
+Ontario,2001,parttime,1170319.7568182154
+Ontario,2002,parttime,1215003.949332652
+Ontario,2003,parttime,1267568.7403245282
+Ontario,2004,parttime,1260537.0987295802
+Ontario,2005,parttime,1270592.115040745
+Ontario,2006,parttime,1266255.698664035
+Ontario,2007,parttime,1302167.5239530448
+Ontario,2008,parttime,1356817.9729821316
+Ontario,2009,parttime,1382826.7726872235
+Ontario,2010,parttime,1397863.0566351807
+Ontario,2011,parttime,1408395.7924323443
+Ontario,2012,parttime,1404453.107468415
+Ontario,2013,parttime,1457146.8651813697
+Ontario,2014,parttime,1457638.1230720452
+Ontario,2015,parttime,1418887.6214893411
+Ontario,2016,parttime,1437494.689600104
+Ontario,2017,parttime,1492376.4214025466
+Ontario,2018,parttime,1473935.5439234476
+Ontario,2019,parttime,1499159.502519558
+Ontario,2020,parttime,1322248.5173577743
+Ontario,2021,parttime,1406981.1840214112
+Ontario,2022,parttime,1478879.4255483605
+Ontario,2023,parttime,1497591.589062574
+Prince Edward Island,1976,parttime,6940.635948091108
+Prince Edward Island,1977,parttime,7193.082480938186
+Prince Edward Island,1978,parttime,7048.367099529423
+Prince Edward Island,1979,parttime,7830.629224461095
+Prince Edward Island,1980,parttime,7887.371365035945
+Prince Edward Island,1981,parttime,8950.203102708007
+Prince Edward Island,1982,parttime,8903.769596893615
+Prince Edward Island,1983,parttime,9088.529920137644
+Prince Edward Island,1984,parttime,8668.37897187497
+Prince Edward Island,1985,parttime,9157.205931302316
+Prince Edward Island,1986,parttime,10117.337868893346
+Prince Edward Island,1987,parttime,10101.283511112571
+Prince Edward Island,1988,parttime,10274.316348856848
+Prince Edward Island,1989,parttime,10912.631174880547
+Prince Edward Island,1990,parttime,10554.501953788653
+Prince Edward Island,1991,parttime,10856.553058765348
+Prince Edward Island,1992,parttime,10747.805776475512
+Prince Edward Island,1993,parttime,11728.71038928837
+Prince Edward Island,1994,parttime,11366.632715081383
+Prince Edward Island,1995,parttime,11539.05457801996
+Prince Edward Island,1996,parttime,11762.493935340255
+Prince Edward Island,1997,parttime,11368.957514267597
+Prince Edward Island,1998,parttime,11693.858769991606
+Prince Edward Island,1999,parttime,11339.342298968197
+Prince Edward Island,2000,parttime,11461.707148507588
+Prince Edward Island,2001,parttime,11427.833578222877
+Prince Edward Island,2002,parttime,11487.054383677229
+Prince Edward Island,2003,parttime,12072.347164065475
+Prince Edward Island,2004,parttime,12093.97545749551
+Prince Edward Island,2005,parttime,12468.808978675646
+Prince Edward Island,2006,parttime,11706.636018497342
+Prince Edward Island,2007,parttime,12534.426791511358
+Prince Edward Island,2008,parttime,12315.97253878391
+Prince Edward Island,2009,parttime,12738.738292038845
+Prince Edward Island,2010,parttime,13785.924407682369
+Prince Edward Island,2011,parttime,12977.793784697233
+Prince Edward Island,2012,parttime,13867.288426138406
+Prince Edward Island,2013,parttime,13944.601358071235
+Prince Edward Island,2014,parttime,12748.83036275949
+Prince Edward Island,2015,parttime,13494.551164087548
+Prince Edward Island,2016,parttime,13683.320870765549
+Prince Edward Island,2017,parttime,13354.683053845458
+Prince Edward Island,2018,parttime,13501.524434962104
+Prince Edward Island,2019,parttime,12823.78662221564
+Prince Edward Island,2020,parttime,12748.243896300026
+Prince Edward Island,2021,parttime,14157.286206302411
+Prince Edward Island,2022,parttime,14318.96352526596
+Prince Edward Island,2023,parttime,15348.330742049471
+Quebec,1976,parttime,256914.61420988143
+Quebec,1977,parttime,279857.8422667782
+Quebec,1978,parttime,301256.1499399447
+Quebec,1979,parttime,332373.1494238476
+Quebec,1980,parttime,361806.6723269393
+Quebec,1981,parttime,396531.2340793588
+Quebec,1982,parttime,415244.0550264024
+Quebec,1983,parttime,442120.46617623005
+Quebec,1984,parttime,450388.7241692008
+Quebec,1985,parttime,497370.4498488762
+Quebec,1986,parttime,508082.56747943454
+Quebec,1987,parttime,503889.1780973028
+Quebec,1988,parttime,520019.6863635471
+Quebec,1989,parttime,524914.3073118186
+Quebec,1990,parttime,538404.3989301187
+Quebec,1991,parttime,573078.6371705962
+Quebec,1992,parttime,574651.0366281061
+Quebec,1993,parttime,592319.5565361591
+Quebec,1994,parttime,584662.452691142
+Quebec,1995,parttime,599076.218131967
+Quebec,1996,parttime,614019.0028229055
+Quebec,1997,parttime,624614.7431860607
+Quebec,1998,parttime,632213.5706458178
+Quebec,1999,parttime,619374.4195333265
+Quebec,2000,parttime,635069.3549317156
+Quebec,2001,parttime,659795.4411016161
+Quebec,2002,parttime,700781.8015074107
+Quebec,2003,parttime,737603.7349510194
+Quebec,2004,parttime,732429.1552515812
+Quebec,2005,parttime,737505.9286574014
+Quebec,2006,parttime,750854.5688145788
+Quebec,2007,parttime,784075.5059547196
+Quebec,2008,parttime,797023.3746615655
+Quebec,2009,parttime,800679.607866923
+Quebec,2010,parttime,841912.6044356218
+Quebec,2011,parttime,839124.0825904051
+Quebec,2012,parttime,842676.8582515254
+Quebec,2013,parttime,851684.7998217581
+Quebec,2014,parttime,889930.6630318959
+Quebec,2015,parttime,873112.2533472363
+Quebec,2016,parttime,867225.5329525216
+Quebec,2017,parttime,894445.8150897601
+Quebec,2018,parttime,879187.8739464671
+Quebec,2019,parttime,893284.0037876514
+Quebec,2020,parttime,773298.6679646887
+Quebec,2021,parttime,818084.5041611219
+Quebec,2022,parttime,864416.592994726
+Quebec,2023,parttime,900248.7180095772
+Saskatchewan,1976,parttime,67733.82722282561
+Saskatchewan,1977,parttime,71268.29502577159
+Saskatchewan,1978,parttime,76927.33835444582
+Saskatchewan,1979,parttime,82295.27302024126
+Saskatchewan,1980,parttime,87012.73966165414
+Saskatchewan,1981,parttime,92678.1083818396
+Saskatchewan,1982,parttime,96661.42685514828
+Saskatchewan,1983,parttime,102237.81519221172
+Saskatchewan,1984,parttime,110039.63400934912
+Saskatchewan,1985,parttime,108026.31721835284
+Saskatchewan,1986,parttime,113008.28584885344
+Saskatchewan,1987,parttime,114309.8225079481
+Saskatchewan,1988,parttime,117307.05761279482
+Saskatchewan,1989,parttime,113581.9176384384
+Saskatchewan,1990,parttime,116448.39934465392
+Saskatchewan,1991,parttime,119981.017338604
+Saskatchewan,1992,parttime,121585.74379107842
+Saskatchewan,1993,parttime,121745.27429112472
+Saskatchewan,1994,parttime,115908.4297968228
+Saskatchewan,1995,parttime,118384.86724264646
+Saskatchewan,1996,parttime,112214.29037348152
+Saskatchewan,1997,parttime,112365.9038790544
+Saskatchewan,1998,parttime,109468.40355937676
+Saskatchewan,1999,parttime,111553.68740139248
+Saskatchewan,2000,parttime,107143.08044773251
+Saskatchewan,2001,parttime,104714.8929657241
+Saskatchewan,2002,parttime,109520.18007542404
+Saskatchewan,2003,parttime,110715.27443903971
+Saskatchewan,2004,parttime,109039.3724159046
+Saskatchewan,2005,parttime,109294.12816741326
+Saskatchewan,2006,parttime,107108.53899630973
+Saskatchewan,2007,parttime,110294.37257306949
+Saskatchewan,2008,parttime,107579.20762731128
+Saskatchewan,2009,parttime,116301.06352417772
+Saskatchewan,2010,parttime,113815.2664069908
+Saskatchewan,2011,parttime,111632.603503446
+Saskatchewan,2012,parttime,110339.9310799551
+Saskatchewan,2013,parttime,112641.06743015042
+Saskatchewan,2014,parttime,111372.9845947756
+Saskatchewan,2015,parttime,115604.642579293
+Saskatchewan,2016,parttime,116804.40269217352
+Saskatchewan,2017,parttime,117645.49574358152
+Saskatchewan,2018,parttime,120029.18834395969
+Saskatchewan,2019,parttime,122418.2758835207
+Saskatchewan,2020,parttime,109009.10172481745
+Saskatchewan,2021,parttime,119754.76907082196
+Saskatchewan,2022,parttime,119542.81902690884
+Saskatchewan,2023,parttime,127677.43421052632
+Alberta,1976,fulltime,843395.7501716898
+Alberta,1977,fulltime,886062.8468519975
+Alberta,1978,fulltime,933076.4718603868
+Alberta,1979,fulltime,1010401.0129794016
+Alberta,1980,fulltime,1073653.2717151258
+Alberta,1981,fulltime,1149743.2608825555
+Alberta,1982,fulltime,1125271.0255782702
+Alberta,1983,fulltime,1070022.3546009508
+Alberta,1984,fulltime,1062867.2173971138
+Alberta,1985,fulltime,1093794.4134157505
+Alberta,1986,fulltime,1111705.4382972128
+Alberta,1987,fulltime,1110895.3971549738
+Alberta,1988,fulltime,1146943.0371661363
+Alberta,1989,fulltime,1177807.3834738615
+Alberta,1990,fulltime,1205841.453244436
+Alberta,1991,fulltime,1206061.4431330897
+Alberta,1992,fulltime,1184362.358831054
+Alberta,1993,fulltime,1178843.8175863528
+Alberta,1994,fulltime,1211044.692513085
+Alberta,1995,fulltime,1247698.953990263
+Alberta,1996,fulltime,1291464.6742190402
+Alberta,1997,fulltime,1334825.3788165073
+Alberta,1998,fulltime,1379591.6769372048
+Alberta,1999,fulltime,1405600.3961206097
+Alberta,2000,fulltime,1449708.883955987
+Alberta,2001,fulltime,1493445.970074511
+Alberta,2002,fulltime,1536010.1268318256
+Alberta,2003,fulltime,1578445.256325122
+Alberta,2004,fulltime,1618089.6892407257
+Alberta,2005,fulltime,1672894.5737072355
+Alberta,2006,fulltime,1780331.3093042325
+Alberta,2007,fulltime,1856987.6165999847
+Alberta,2008,fulltime,1896018.2648351772
+Alberta,2009,fulltime,1837552.1118210773
+Alberta,2010,fulltime,1837766.447201538
+Alberta,2011,fulltime,1917026.6307521483
+Alberta,2012,fulltime,1995523.44518464
+Alberta,2013,fulltime,2048653.562900424
+Alberta,2014,fulltime,2071018.8477553653
+Alberta,2015,fulltime,2077197.0205891836
+Alberta,2016,fulltime,1982669.9193517985
+Alberta,2017,fulltime,1998488.7942413944
+Alberta,2018,fulltime,2067850.1547389063
+Alberta,2019,fulltime,2083508.73712208
+Alberta,2020,fulltime,1935597.375821384
+Alberta,2021,fulltime,2015901.7908296925
+Alberta,2022,fulltime,2124997.8533337023
+Alberta,2023,fulltime,2221440.4253479773
+British Columbia,1976,fulltime,1022643.544096677
+British Columbia,1977,fulltime,1042459.4868524764
+British Columbia,1978,fulltime,1090729.2298606122
+British Columbia,1979,fulltime,1124585.1721403592
+British Columbia,1980,fulltime,1181277.360870967
+British Columbia,1981,fulltime,1229576.9280855928
+British Columbia,1982,fulltime,1150346.15421964
+British Columbia,1983,fulltime,1115149.0317554954
+British Columbia,1984,fulltime,1118660.7998535738
+British Columbia,1985,fulltime,1146420.8993461106
+British Columbia,1986,fulltime,1187588.8914927656
+British Columbia,1987,fulltime,1239891.4816237292
+British Columbia,1988,fulltime,1295708.782286069
+British Columbia,1989,fulltime,1390942.7652560049
+British Columbia,1990,fulltime,1437765.2067427018
+British Columbia,1991,fulltime,1423468.0546900628
+British Columbia,1992,fulltime,1456749.6330972484
+British Columbia,1993,fulltime,1497656.1683221585
+British Columbia,1994,fulltime,1541298.5376352335
+British Columbia,1995,fulltime,1596835.645448437
+British Columbia,1996,fulltime,1616172.9516597365
+British Columbia,1997,fulltime,1639722.3364109509
+British Columbia,1998,fulltime,1621793.1038545626
+British Columbia,1999,fulltime,1651720.654687628
+British Columbia,2000,fulltime,1699045.8978051983
+British Columbia,2001,fulltime,1679572.147151736
+British Columbia,2002,fulltime,1663870.8452428982
+British Columbia,2003,fulltime,1710936.290924653
+British Columbia,2004,fulltime,1766229.4619919094
+British Columbia,2005,fulltime,1824136.8780053863
+British Columbia,2006,fulltime,1876771.912328936
+British Columbia,2007,fulltime,1923034.0823126407
+British Columbia,2008,fulltime,1954489.2888785447
+British Columbia,2009,fulltime,1877034.760803404
+British Columbia,2010,fulltime,1884817.155767534
+British Columbia,2011,fulltime,1883161.496576409
+British Columbia,2012,fulltime,1961909.5848713175
+British Columbia,2013,fulltime,1987916.128889653
+British Columbia,2014,fulltime,2009473.609577754
+British Columbia,2015,fulltime,2069228.01696481
+British Columbia,2016,fulltime,2119632.7736537494
+British Columbia,2017,fulltime,2198818.088052457
+British Columbia,2018,fulltime,2243273.753305376
+British Columbia,2019,fulltime,2286522.617040753
+British Columbia,2020,fulltime,2162663.2729049656
+British Columbia,2021,fulltime,2269777.9039934864
+British Columbia,2022,fulltime,2396549.485181064
+British Columbia,2023,fulltime,2508280.0143652363
+Manitoba,1976,fulltime,430476.5539804957
+Manitoba,1977,fulltime,427882.6749490111
+Manitoba,1978,fulltime,431236.88716654
+Manitoba,1979,fulltime,439474.6156561597
+Manitoba,1980,fulltime,441899.8698816969
+Manitoba,1981,fulltime,446551.7826924439
+Manitoba,1982,fulltime,429814.7319735215
+Manitoba,1983,fulltime,433843.539138214
+Manitoba,1984,fulltime,445010.3796029154
+Manitoba,1985,fulltime,455034.45940430777
+Manitoba,1986,fulltime,465987.43748043256
+Manitoba,1987,fulltime,467971.1936275509
+Manitoba,1988,fulltime,467486.7390291259
+Manitoba,1989,fulltime,473232.3814080995
+Manitoba,1990,fulltime,469020.79579807294
+Manitoba,1991,fulltime,453933.35722493
+Manitoba,1992,fulltime,446149.50654920697
+Manitoba,1993,fulltime,450582.8157340701
+Manitoba,1994,fulltime,460036.09581677045
+Manitoba,1995,fulltime,471861.41245977423
+Manitoba,1996,fulltime,471941.74237794906
+Manitoba,1997,fulltime,484602.1764698032
+Manitoba,1998,fulltime,498339.5070405976
+Manitoba,1999,fulltime,504074.6541239388
+Manitoba,2000,fulltime,517697.09759067575
+Manitoba,2001,fulltime,516811.1757080758
+Manitoba,2002,fulltime,524082.337687345
+Manitoba,2003,fulltime,528012.0500236795
+Manitoba,2004,fulltime,535291.3601039957
+Manitoba,2005,fulltime,535235.9543508681
+Manitoba,2006,fulltime,539462.7894504238
+Manitoba,2007,fulltime,550280.837082557
+Manitoba,2008,fulltime,559838.1248029462
+Manitoba,2009,fulltime,554979.5766695101
+Manitoba,2010,fulltime,560616.7998689373
+Manitoba,2011,fulltime,565716.9868149845
+Manitoba,2012,fulltime,571405.0599905082
+Manitoba,2013,fulltime,576410.6513411106
+Manitoba,2014,fulltime,581567.8108272507
+Manitoba,2015,fulltime,593132.2186606886
+Manitoba,2016,fulltime,590325.4970234865
+Manitoba,2017,fulltime,600445.7755098607
+Manitoba,2018,fulltime,603754.8218686609
+Manitoba,2019,fulltime,611893.7637737239
+Manitoba,2020,fulltime,588822.5378652195
+Manitoba,2021,fulltime,621453.1527753561
+Manitoba,2022,fulltime,642077.6482131667
+Manitoba,2023,fulltime,667575.8526041182
+New Brunswick,1976,fulltime,237565.94601324596
+New Brunswick,1977,fulltime,232231.6168225886
+New Brunswick,1978,fulltime,242220.80180611432
+New Brunswick,1979,fulltime,249363.7057053112
+New Brunswick,1980,fulltime,252093.1912875404
+New Brunswick,1981,fulltime,251698.5755367079
+New Brunswick,1982,fulltime,238360.05126910872
+New Brunswick,1983,fulltime,237224.2773108315
+New Brunswick,1984,fulltime,242108.10324947
+New Brunswick,1985,fulltime,247005.90508646384
+New Brunswick,1986,fulltime,254789.1381860891
+New Brunswick,1987,fulltime,264600.49807843176
+New Brunswick,1988,fulltime,273045.896174588
+New Brunswick,1989,fulltime,280056.5424381573
+New Brunswick,1990,fulltime,282269.62460281426
+New Brunswick,1991,fulltime,275098.66482393513
+New Brunswick,1992,fulltime,275333.1111335333
+New Brunswick,1993,fulltime,276230.8107922843
+New Brunswick,1994,fulltime,274979.4278740621
+New Brunswick,1995,fulltime,284052.27695530665
+New Brunswick,1996,fulltime,281332.3343269244
+New Brunswick,1997,fulltime,285941.13341179263
+New Brunswick,1998,fulltime,294053.72628914245
+New Brunswick,1999,fulltime,302684.97076514194
+New Brunswick,2000,fulltime,310473.40220661985
+New Brunswick,2001,fulltime,310392.27528136724
+New Brunswick,2002,fulltime,317685.50941538875
+New Brunswick,2003,fulltime,317553.22169951693
+New Brunswick,2004,fulltime,321808.0376644809
+New Brunswick,2005,fulltime,317915.3165757321
+New Brunswick,2006,fulltime,321162.07004603575
+New Brunswick,2007,fulltime,329033.7896266641
+New Brunswick,2008,fulltime,333453.8489313861
+New Brunswick,2009,fulltime,332515.13945416524
+New Brunswick,2010,fulltime,332585.2247200108
+New Brunswick,2011,fulltime,325903.6284085846
+New Brunswick,2012,fulltime,327506.04569137946
+New Brunswick,2013,fulltime,328043.0701168294
+New Brunswick,2014,fulltime,328387.4735265932
+New Brunswick,2015,fulltime,328863.287731153
+New Brunswick,2016,fulltime,329031.0837592798
+New Brunswick,2017,fulltime,335845.9363325749
+New Brunswick,2018,fulltime,337256.99424300174
+New Brunswick,2019,fulltime,337143.2863459544
+New Brunswick,2020,fulltime,330082.24383629835
+New Brunswick,2021,fulltime,339110.2770289828
+New Brunswick,2022,fulltime,354449.7005776413
+New Brunswick,2023,fulltime,359571.88936675066
+Newfoundland and Labrador,1976,fulltime,173479.83813201805
+Newfoundland and Labrador,1977,fulltime,173705.79612820095
+Newfoundland and Labrador,1978,fulltime,177689.9646150219
+Newfoundland and Labrador,1979,fulltime,187425.20270153903
+Newfoundland and Labrador,1980,fulltime,192354.9953641444
+Newfoundland and Labrador,1981,fulltime,195974.22176566583
+Newfoundland and Labrador,1982,fulltime,186742.9674247064
+Newfoundland and Labrador,1983,fulltime,183109.605378379
+Newfoundland and Labrador,1984,fulltime,180100.8093607533
+Newfoundland and Labrador,1985,fulltime,181808.29938086835
+Newfoundland and Labrador,1986,fulltime,185344.24140752264
+Newfoundland and Labrador,1987,fulltime,187087.7769934851
+Newfoundland and Labrador,1988,fulltime,196421.86414094456
+Newfoundland and Labrador,1989,fulltime,201733.04935126205
+Newfoundland and Labrador,1990,fulltime,201845.1390515167
+Newfoundland and Labrador,1991,fulltime,197277.90711481855
+Newfoundland and Labrador,1992,fulltime,183971.7886610292
+Newfoundland and Labrador,1993,fulltime,181143.2454858093
+Newfoundland and Labrador,1994,fulltime,181157.77823283253
+Newfoundland and Labrador,1995,fulltime,179031.35769776342
+Newfoundland and Labrador,1996,fulltime,172432.77703651076
+Newfoundland and Labrador,1997,fulltime,172234.98777813892
+Newfoundland and Labrador,1998,fulltime,175907.8941433858
+Newfoundland and Labrador,1999,fulltime,185359.6781724711
+Newfoundland and Labrador,2000,fulltime,183533.9174894122
+Newfoundland and Labrador,2001,fulltime,188071.7581431002
+Newfoundland and Labrador,2002,fulltime,188086.0197565801
+Newfoundland and Labrador,2003,fulltime,192376.4582158023
+Newfoundland and Labrador,2004,fulltime,195831.93643926276
+Newfoundland and Labrador,2005,fulltime,194999.90399452203
+Newfoundland and Labrador,2006,fulltime,195352.283095723
+Newfoundland and Labrador,2007,fulltime,200358.420567918
+Newfoundland and Labrador,2008,fulltime,203177.22103418052
+Newfoundland and Labrador,2009,fulltime,198464.0667297514
+Newfoundland and Labrador,2010,fulltime,205456.61922052343
+Newfoundland and Labrador,2011,fulltime,212693.90591128345
+Newfoundland and Labrador,2012,fulltime,221868.12049249123
+Newfoundland and Labrador,2013,fulltime,221718.1104352256
+Newfoundland and Labrador,2014,fulltime,217564.85158878507
+Newfoundland and Labrador,2015,fulltime,219558.7882010523
+Newfoundland and Labrador,2016,fulltime,210783.57626946075
+Newfoundland and Labrador,2017,fulltime,205996.43875118392
+Newfoundland and Labrador,2018,fulltime,203246.120272884
+Newfoundland and Labrador,2019,fulltime,209230.36638253328
+Newfoundland and Labrador,2020,fulltime,195294.8878402261
+Newfoundland and Labrador,2021,fulltime,204446.29439838292
+Newfoundland and Labrador,2022,fulltime,213610.62295111528
+Newfoundland and Labrador,2023,fulltime,217574.57687195396
+Nova Scotia,1976,fulltime,302517.15563799225
+Nova Scotia,1977,fulltime,298877.0919160429
+Nova Scotia,1978,fulltime,307477.4783220631
+Nova Scotia,1979,fulltime,316612.09198253084
+Nova Scotia,1980,fulltime,320183.4163946427
+Nova Scotia,1981,fulltime,317832.301317176
+Nova Scotia,1982,fulltime,307193.08516943915
+Nova Scotia,1983,fulltime,307437.880821579
+Nova Scotia,1984,fulltime,321404.31930883776
+Nova Scotia,1985,fulltime,324593.00859970425
+Nova Scotia,1986,fulltime,328358.2828569569
+Nova Scotia,1987,fulltime,335614.80040675803
+Nova Scotia,1988,fulltime,351300.3025508182
+Nova Scotia,1989,fulltime,357111.97918249696
+Nova Scotia,1990,fulltime,360133.0642881909
+Nova Scotia,1991,fulltime,350952.9294383656
+Nova Scotia,1992,fulltime,337327.9747163237
+Nova Scotia,1993,fulltime,334219.57401300105
+Nova Scotia,1994,fulltime,334572.762006996
+Nova Scotia,1995,fulltime,336593.8997009929
+Nova Scotia,1996,fulltime,337614.86022673687
+Nova Scotia,1997,fulltime,338732.81727521104
+Nova Scotia,1998,fulltime,355332.54047211766
+Nova Scotia,1999,fulltime,364581.61268156616
+Nova Scotia,2000,fulltime,372570.4652227346
+Nova Scotia,2001,fulltime,377666.6511050717
+Nova Scotia,2002,fulltime,379312.8841304487
+Nova Scotia,2003,fulltime,384455.8513188806
+Nova Scotia,2004,fulltime,394563.77177629486
+Nova Scotia,2005,fulltime,394493.49269637815
+Nova Scotia,2006,fulltime,391797.0500069228
+Nova Scotia,2007,fulltime,397724.6684165814
+Nova Scotia,2008,fulltime,402689.7055759371
+Nova Scotia,2009,fulltime,401275.7947565205
+Nova Scotia,2010,fulltime,399202.2317200202
+Nova Scotia,2011,fulltime,401991.6473909851
+Nova Scotia,2012,fulltime,400634.96730304736
+Nova Scotia,2013,fulltime,399098.7799331963
+Nova Scotia,2014,fulltime,395122.09844887286
+Nova Scotia,2015,fulltime,396439.8158131018
+Nova Scotia,2016,fulltime,394676.7218717855
+Nova Scotia,2017,fulltime,396864.6775264823
+Nova Scotia,2018,fulltime,406573.5432510458
+Nova Scotia,2019,fulltime,415491.5109241711
+Nova Scotia,2020,fulltime,401606.1086121392
+Nova Scotia,2021,fulltime,421098.9001860414
+Nova Scotia,2022,fulltime,445894.563660346
+Nova Scotia,2023,fulltime,467730.48851754
+Ontario,1976,fulltime,3650233.650103569
+Ontario,1977,fulltime,3671344.987029548
+Ontario,1978,fulltime,3779690.3720210623
+Ontario,1979,fulltime,3898500.4385414952
+Ontario,1980,fulltime,3941156.9573889216
+Ontario,1981,fulltime,4024288.489630607
+Ontario,1982,fulltime,3887173.7157532177
+Ontario,1983,fulltime,3894785.560826855
+Ontario,1984,fulltime,4048306.571473975
+Ontario,1985,fulltime,4192055.673071477
+Ontario,1986,fulltime,4352104.6731203385
+Ontario,1987,fulltime,4526150.410220388
+Ontario,1988,fulltime,4694396.703098538
+Ontario,1989,fulltime,4852922.915977622
+Ontario,1990,fulltime,4830249.152113625
+Ontario,1991,fulltime,4580898.19298874
+Ontario,1992,fulltime,4474027.534586457
+Ontario,1993,fulltime,4416216.505529135
+Ontario,1994,fulltime,4509379.411378191
+Ontario,1995,fulltime,4596738.600612579
+Ontario,1996,fulltime,4620271.744100217
+Ontario,1997,fulltime,4737949.365705615
+Ontario,1998,fulltime,4915889.053342517
+Ontario,1999,fulltime,5118168.946737125
+Ontario,2000,fulltime,5275670.472908387
+Ontario,2001,fulltime,5377918.114679865
+Ontario,2002,fulltime,5442270.518692163
+Ontario,2003,fulltime,5567695.203632398
+Ontario,2004,fulltime,5669792.387563567
+Ontario,2005,fulltime,5713401.091781456
+Ontario,2006,fulltime,5789191.579512553
+Ontario,2007,fulltime,5820182.673175493
+Ontario,2008,fulltime,5821763.8253636
+Ontario,2009,fulltime,5620006.720349111
+Ontario,2010,fulltime,5713272.704103917
+Ontario,2011,fulltime,5821103.263769904
+Ontario,2012,fulltime,5876249.32156599
+Ontario,2013,fulltime,5933937.662310308
+Ontario,2014,fulltime,5965661.560418531
+Ontario,2015,fulltime,6054314.857305542
+Ontario,2016,fulltime,6112954.2393741645
+Ontario,2017,fulltime,6227165.350922067
+Ontario,2018,fulltime,6378939.484861403
+Ontario,2019,fulltime,6544327.48325654
+Ontario,2020,fulltime,6287916.212457214
+Ontario,2021,fulltime,6571621.540232362
+Ontario,2022,fulltime,6930010.102714988
+Ontario,2023,fulltime,7258940.773443563
+Prince Edward Island,1976,fulltime,42840.80992716041
+Prince Edward Island,1977,fulltime,43014.44116438202
+Prince Edward Island,1978,fulltime,44514.99330070148
+Prince Edward Island,1979,fulltime,45389.00085837023
+Prince Edward Island,1980,fulltime,46742.45110041253
+Prince Edward Island,1981,fulltime,44675.08590079172
+Prince Edward Island,1982,fulltime,43914.56245509248
+Prince Edward Island,1983,fulltime,46036.60954360178
+Prince Edward Island,1984,fulltime,47378.963629736645
+Prince Edward Island,1985,fulltime,48209.718559029294
+Prince Edward Island,1986,fulltime,49057.76328592127
+Prince Edward Island,1987,fulltime,50317.7848102573
+Prince Edward Island,1988,fulltime,51418.75491393005
+Prince Edward Island,1989,fulltime,51340.25443933439
+Prince Edward Island,1990,fulltime,51569.50331294598
+Prince Edward Island,1991,fulltime,49356.498780558126
+Prince Edward Island,1992,fulltime,49359.60150690665
+Prince Edward Island,1993,fulltime,49364.92164641707
+Prince Edward Island,1994,fulltime,50875.22341352968
+Prince Edward Island,1995,fulltime,52200.04222482196
+Prince Edward Island,1996,fulltime,53967.99588989317
+Prince Edward Island,1997,fulltime,53900.3761889664
+Prince Edward Island,1998,fulltime,54475.590894437926
+Prince Edward Island,1999,fulltime,55633.07008833091
+Prince Edward Island,2000,fulltime,58018.55299952513
+Prince Edward Island,2001,fulltime,58971.67303379477
+Prince Edward Island,2002,fulltime,59710.662882565
+Prince Edward Island,2003,fulltime,60279.42436239056
+Prince Edward Island,2004,fulltime,60862.361019305696
+Prince Edward Island,2005,fulltime,61524.32772166106
+Prince Edward Island,2006,fulltime,62269.14759025658
+Prince Edward Island,2007,fulltime,61425.01723280655
+Prince Edward Island,2008,fulltime,62230.92732152047
+Prince Edward Island,2009,fulltime,61472.76331005845
+Prince Edward Island,2010,fulltime,61991.66660869701
+Prince Edward Island,2011,fulltime,65015.05435928476
+Prince Edward Island,2012,fulltime,65044.61554366869
+Prince Edward Island,2013,fulltime,65847.00253439586
+Prince Edward Island,2014,fulltime,66358.83413713567
+Prince Edward Island,2015,fulltime,65538.50669176078
+Prince Edward Island,2016,fulltime,65034.21043071716
+Prince Edward Island,2017,fulltime,67864.51361461237
+Prince Edward Island,2018,fulltime,69372.37455361008
+Prince Edward Island,2019,fulltime,72611.4477687772
+Prince Edward Island,2020,fulltime,70340.73470928769
+Prince Edward Island,2021,fulltime,72816.66925828012
+Prince Edward Island,2022,fulltime,77036.74694590688
+Prince Edward Island,2023,fulltime,77965.07137809187
+Quebec,1976,fulltime,2597330.867708338
+Quebec,1977,fulltime,2576944.4134978103
+Quebec,1978,fulltime,2589201.035132191
+Quebec,1979,fulltime,2654325.499498998
+Quebec,1980,fulltime,2690777.2168764384
+Quebec,1981,fulltime,2693873.77948561
+Quebec,1982,fulltime,2513901.7160872538
+Quebec,1983,fulltime,2535633.557567135
+Quebec,1984,fulltime,2615506.744748713
+Quebec,1985,fulltime,2666438.445285033
+Quebec,1986,fulltime,2751171.1604720075
+Quebec,1987,fulltime,2862584.975808945
+Quebec,1988,fulltime,2912459.094466517
+Quebec,1989,fulltime,2965678.4373729774
+Quebec,1990,fulltime,2954154.4434021185
+Quebec,1991,fulltime,2848269.524794916
+Quebec,1992,fulltime,2782330.785243482
+Quebec,1993,fulltime,2754130.095779558
+Quebec,1994,fulltime,2829499.099660602
+Quebec,1995,fulltime,2859026.110086611
+Quebec,1996,fulltime,2840198.5945824264
+Quebec,1997,fulltime,2882309.4397836747
+Quebec,1998,fulltime,2970061.7062219945
+Quebec,1999,fulltime,3064264.707804651
+Quebec,2000,fulltime,3127132.315864644
+Quebec,2001,fulltime,3142719.545286218
+Quebec,2002,fulltime,3220191.084756904
+Quebec,2003,fulltime,3242101.23641876
+Quebec,2004,fulltime,3293482.197646013
+Quebec,2005,fulltime,3311067.320037096
+Quebec,2006,fulltime,3319100.142362079
+Quebec,2007,fulltime,3370077.040237735
+Quebec,2008,fulltime,3398021.304310562
+Quebec,2009,fulltime,3368337.1139087365
+Quebec,2010,fulltime,3405000.322911404
+Quebec,2011,fulltime,3460011.1757615614
+Quebec,2012,fulltime,3501884.229744649
+Quebec,2013,fulltime,3536541.235028364
+Quebec,2014,fulltime,3482551.626382324
+Quebec,2015,fulltime,3528543.377569915
+Quebec,2016,fulltime,3567553.90849162
+Quebec,2017,fulltime,3649830.2290084567
+Quebec,2018,fulltime,3742720.8077011216
+Quebec,2019,fulltime,3805065.8544644695
+Quebec,2020,fulltime,3671373.647624809
+Quebec,2021,fulltime,3804866.5073090056
+Quebec,2022,fulltime,3919801.9311047527
+Quebec,2023,fulltime,4069238.760483032
+Saskatchewan,1976,fulltime,375036.4860497586
+Saskatchewan,1977,fulltime,385198.9302614419
+Saskatchewan,1978,fulltime,387922.8708525713
+Saskatchewan,1979,fulltime,396879.76732276473
+Saskatchewan,1980,fulltime,399492.3922979919
+Saskatchewan,1981,fulltime,402128.09289213567
+Saskatchewan,1982,fulltime,396580.27446569176
+Saskatchewan,1983,fulltime,398820.1881219605
+Saskatchewan,1984,fulltime,398725.09887716174
+Saskatchewan,1985,fulltime,413569.2288080117
+Saskatchewan,1986,fulltime,420127.2907970486
+Saskatchewan,1987,fulltime,418130.7706861056
+Saskatchewan,1988,fulltime,417000.90424321935
+Saskatchewan,1989,fulltime,413859.7173691993
+Saskatchewan,1990,fulltime,408653.2435676499
+Saskatchewan,1991,fulltime,404019.873298322
+Saskatchewan,1992,fulltime,396442.1621496283
+Saskatchewan,1993,fulltime,396341.23021440086
+Saskatchewan,1994,fulltime,408879.6664500891
+Saskatchewan,1995,fulltime,410965.4363582008
+Saskatchewan,1996,fulltime,416130.4148020572
+Saskatchewan,1997,fulltime,427160.8034437381
+Saskatchewan,1998,fulltime,435057.8000913232
+Saskatchewan,1999,fulltime,433536.2160829669
+Saskatchewan,2000,fulltime,440450.3055833616
+Saskatchewan,2001,fulltime,428003.0358416278
+Saskatchewan,2002,fulltime,431873.4505098497
+Saskatchewan,2003,fulltime,439448.24446885305
+Saskatchewan,2004,fulltime,445834.6858202754
+Saskatchewan,2005,fulltime,446875.5254507366
+Saskatchewan,2006,fulltime,459472.59819976095
+Saskatchewan,2007,fulltime,472402.81852399366
+Saskatchewan,2008,fulltime,487041.1079270935
+Saskatchewan,2009,fulltime,488208.4401461786
+Saskatchewan,2010,fulltime,498965.74647783657
+Saskatchewan,2011,fulltime,506797.15334755497
+Saskatchewan,2012,fulltime,519443.6568767909
+Saskatchewan,2013,fulltime,532842.8848782314
+Saskatchewan,2014,fulltime,538340.9919624917
+Saskatchewan,2015,fulltime,535009.5392638013
+Saskatchewan,2016,fulltime,529810.2552622398
+Saskatchewan,2017,fulltime,530263.3520537373
+Saskatchewan,2018,fulltime,531594.7682571412
+Saskatchewan,2019,fulltime,539511.0714181984
+Saskatchewan,2020,fulltime,518399.47578874265
+Saskatchewan,2021,fulltime,523640.8939174684
+Saskatchewan,2022,fulltime,545736.8850443332
+Saskatchewan,2023,fulltime,555977.1907894737
