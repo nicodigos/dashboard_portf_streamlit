@@ -3,6 +3,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 from streamlit_plotly_events import plotly_events
 import pandas as pd
+import time
+
 
 def select_reference(df, selected_points):
     try:
@@ -25,6 +27,7 @@ def selected_points_year(selected_points):
 st.set_page_config(
     layout="wide",                      
 )
+
 
 dataframes = {'Labour Force vs Total Population': 'labour_force_vs_total_population.csv',
               'Part time vs Full time': 'parttime_vs_fulltime.csv',
@@ -105,10 +108,14 @@ fig.update_layout(legend=dict(
 
 
 
+
 selected_points = plotly_events(
     fig, 
-    hover_event=True,       # Capturar eventos de hover
+    hover_event=True,  
+  # Capturar eventos de hover
 )
+
+
 
 
 with col3:
@@ -144,6 +151,7 @@ second_col1, second_col2 = st.columns(2)
 
 with second_col1:
     try:
+        time.sleep(0.1)
         pie = px.pie(values=list(map(lambda x: x['y'], selected_points)), 
                     names=option,
                     template="plotly_dark",
@@ -158,6 +166,7 @@ with second_col1:
 
 with second_col2:
     try:
+        time.sleep(0.1)
         if selected_points[0]['x'] == slider[0]:
             pass
         else:
@@ -230,3 +239,4 @@ with second_col2:
 
 
 # st.plotly_chart(month)
+    
