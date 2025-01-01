@@ -32,9 +32,15 @@ st.title("How Canada Works?")
 
 dataframes = {'Labour Force vs Total Population': 'labour_force_vs_total_population.csv',
               'Part time vs Full time': 'parttime_vs_fulltime.csv',
-              'Employment vs Unemployment': 'employment_vs_unemployment.csv'     }
+              'Employment vs Unemployment': 'employment_vs_unemployment.csv'}
+
+descriptions = {'Labour Force vs Total Population': 'The labour force comprises individuals who are either employed or actively seeking employment. Inactive adults refer to those not participating in the labour market, such as retirees or individuals unable to work. The population aged 0 to 14 represents children who depend on caregivers. The labour force supports both groups by contributing to economic activities and generating resources to meet societal needs.',
+              'Part time vs Full time': 'Part-time employment involves working fewer hours than a full-time job, typically less than 30 hours per week in Canada. Historically, part-time work has been defined based on reduced hours compared to full-time employment. Both types contribute to the employed population within the labour force, supporting economic activities.',
+              'Employment vs Unemployment': 'Employment includes individuals who are currently working or self-employed, making up the labour force. Unemployment refers to those actively seeking work but not currently employed, also part of the labour force. Together, they represent the participation in the labour force within the job market.'}
 
 selected_df = st.selectbox('Select Dataframe', dataframes.keys(), index=2)
+
+st.write(descriptions[selected_df])
 
 df = pd.read_csv(f"data/{dataframes[selected_df]}")
 cualitative_variable = 'variable'
@@ -210,6 +216,8 @@ with second_col2:
     except Exception:
         pass
 
+
+st.markdown("Source: [Statistics Canada](https://www.statcan.gc.ca/en/start)")
 
 # base_df_modif = base_df_modif[base_df_modif.year.str[:4] == str(selected_points_year(selected_points))]
 
