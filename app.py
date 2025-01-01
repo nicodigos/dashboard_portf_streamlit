@@ -28,6 +28,7 @@ st.set_page_config(
     layout="wide",                      
 )
 
+st.title("How Canada Works?")
 
 dataframes = {'Labour Force vs Total Population': 'labour_force_vs_total_population.csv',
               'Part time vs Full time': 'parttime_vs_fulltime.csv',
@@ -40,12 +41,16 @@ cualitative_variable = 'variable'
 cuantitative_variable = 'value'
 base_df = pd.read_csv(f"data/{dataframes[selected_df][:-4]}_second.csv")
 
+
+
+
 provinces = st.multiselect(
         label="Select provinces for display",
         options=df['GEO'].unique().tolist(),
         default=df['GEO'].unique().tolist(),
         label_visibility = "hidden"
     )
+
 
 
 col1, col2, col3 = st.columns([0.42, 0.42, 0.16], vertical_alignment='center', gap='medium')
@@ -84,7 +89,7 @@ fig = px.area(df_modif, x="year",
             category_orders={cualitative_variable: option}
             )
 fig.update_traces(mode="lines", hovertemplate='%{y:,.0f}', stackgroup='one')
-fig.update_layout(hovermode="x")
+fig.update_layout(hovermode="x", yaxis_title='population')
 fig.update_layout(
     paper_bgcolor="rgba(0,0,0,0)",  # Fondo del lienzo transparente
     # plot_bgcolor="rgba(0,0,0,0)"    # Fondo del área del gráfico transparente
